@@ -1,0 +1,1270 @@
+[ORDER] SELL | Company: Rio Tinto Ltd. (RIO.AX) | Price: 50.111 | Quantity: 5
+[ORDER] SELL | Company: Rio Tinto Ltd. (RIO.AX) | Price: 50.111 | Quantity: 5
+[ORDER] BUY | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 462.008 | Quantity: 27
+[ORDER] BUY | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 644.403 | Quantity: 3
+[ORDER] BUY | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 644.403 | Quantity: 3
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 987.172 | Quantity: 19
+[ORDER] BUY | Company: JPMorgan Chase & Co. (JPM) | Price: 813.792 | Quantity: 50
+[ORDER] SELL | Company: Alphabet Inc. (GOOGL) | Price: 77.5495 | Quantity: 21
+[ORDER] BUY | Company: Sony Group Corp. (6758.T) | Price: 781.698 | Quantity: 29
+[ORDER] BUY | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 456.548 | Quantity: 2
+[ORDER] BUY | Company: Exxon Mobil Corp. (XOM) | Price: 467.019 | Quantity: 44
+[ORDER] BUY | Company: JPMorgan Chase & Co. (JPM) | Price: 470.226 | Quantity: 17
+[ORDER] BUY | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 385.641 | Quantity: 28
+[ORDER] SELL | Company: Meta Platforms Inc. (META) | Price: 887.726 | Quantity: 42
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 865.278 | Quantity: 14
+[ORDER] SELL | Company: Unilever plc (ULVR.L) | Price: 946.898 | Quantity: 27
+[ORDER] BUY | Company: CSL Ltd. (CSL.AX) | Price: 292.998 | Quantity: 21
+[ORDER] BUY | Company: Bank of Montreal (BMO.TO) | Price: 796.15 | Quantity: 32
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 344.351 | Quantity: 28
+[ORDER] SELL | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 914.355 | Quantity: 13
+[ORDER] SELL | Company: Toyota Motor Corp. (7203.T) | Price: 50.0675 | Quantity: 4
+[ORDER] BUY | Company: Bank of Montreal (BMO.TO) | Price: 328.048 | Quantity: 41
+[ORDER] BUY | Company: Alphabet Inc. (GOOGL) | Price: 988.739 | Quantity: 44
+[ORDER] BUY | Company: TotalEnergies SE (TTE.PA) | Price: 232.206 | Quantity: 47
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 227.174 | Quantity: 30
+[ORDER] BUY | Company: Unilever plc (ULVR.L) | Price: 6.03826 | Quantity: 45
+[ORDER] BUY | Company: BP plc (BP.L) | Price: 504.688 | Quantity: 38
+[ORDER] SELL | Company: Sony Group Corp. (6758.T) | Price: 747.014 | Quantity: 41
+[ORDER] SELL | Company: Sony Corporation (6758.T) | Price: 588.607 | Quantity: 25
+[ORDER] SELL | Company: NVIDIA Corp. (NVDA) | Price: 189.441 | Quantity: 22
+[ORDER] BUY | Company: Bank of Montreal (BMO.TO) | Price: 36.5997 | Quantity: 26
+[ORDER] BUY | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 700.766 | Quantity: 37
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 801.345 | Quantity: 34
+[ORDER] SELL | Company: Royal Bank of Canada (RY.TO) | Price: 144.605 | Quantity: 23
+[ORDER] SELL | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 164.849 | Quantity: 7
+[ORDER] SELL | Company: Canadian National Railway Co. (CNR.TO) | Price: 799.939 | Quantity: 5
+[ORDER] SELL | Company: Amazon.com Inc. (AMZN) | Price: 598.722 | Quantity: 25
+[ORDER] SELL | Company: Bank of Montreal (BMO.TO) | Price: 310.278 | Quantity: 24
+[ORDER] SELL | Company: Infosys Ltd. (INFY.NS) | Price: 837.994 | Quantity: 2
+[ORDER] BUY | Company: Siemens AG (SIE.DE) | Price: 53.9404 | Quantity: 4
+[ORDER] BUY | Company: Walmart Inc. (WMT) | Price: 889.531 | Quantity: 8
+[ORDER] SELL | Company: CSL Ltd. (CSL.AX) | Price: 729.804 | Quantity: 34
+[ORDER] BUY | Company: Infosys Ltd. (INFY.NS) | Price: 600.39 | Quantity: 19
+[ORDER] SELL | Company: Shell plc (SHEL.L) | Price: 392.926 | Quantity: 19
+[ORDER] BUY | Company: Microsoft Corp. (MSFT) | Price: 993.231 | Quantity: 42
+[ORDER] SELL | Company: Nestlé S.A. (NESN.SW) | Price: 194.906 | Quantity: 22
+[ORDER] BUY | Company: Meta Platforms Inc. (META) | Price: 192.365 | Quantity: 48
+[ORDER] BUY | Company: Toyota Motor Corp. (7203.T) | Price: 493.612 | Quantity: 46
+[ORDER] BUY | Company: Infosys Ltd. (INFY.NS) | Price: 197.173 | Quantity: 41
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 465.818 | Quantity: 26
+[ORDER] SELL | Company: Johnson & Johnson (JNJ) | Price: 571.405 | Quantity: 32
+[ORDER] SELL | Company: Roche Holding AG (ROG.SW) | Price: 968.523 | Quantity: 42
+[ORDER] SELL | Company: CSL Ltd. (CSL.AX) | Price: 396.974 | Quantity: 33
+[ORDER] SELL | Company: TotalEnergies SE (TTE.PA) | Price: 840.578 | Quantity: 45
+[ORDER] BUY | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 960.098 | Quantity: 31
+[ORDER] BUY | Company: BHP Group Ltd. (BHP.AX) | Price: 873.429 | Quantity: 8
+[ORDER] SELL | Company: Roche Holding AG (ROG.SW) | Price: 799.329 | Quantity: 33
+[ORDER] BUY | Company: Rio Tinto Ltd. (RIO.AX) | Price: 420.932 | Quantity: 28
+[ORDER] SELL | Company: Sony Group Corp. (6758.T) | Price: 475.762 | Quantity: 4
+[MATCH] Company: Rio Tinto Ltd. (RIO.AX) | Matching Buy @420.932 with Sell @50.111 | Quantity: 5
+[MATCH] Company: Rio Tinto Ltd. (RIO.AX) | Matching Buy @420.932 with Sell @50.111 | Quantity: 5
+[ORDER] SELL | Company: Sony Corporation (6758.T) | Price: 844.657 | Quantity: 45
+[TRADE] Company: Rio Tinto Ltd. (RIO.AX) | Buy @420.932 | Sell @50.111 | Quantity: 5
+[ORDER] BUY | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 46.5672 | Quantity: 10
+[ORDER] BUY | Company: Visa Inc. (V) | Price: 729.142 | Quantity: 50
+[ORDER] SELL | Company: Unilever plc (ULVR.L) | Price: 379.856 | Quantity: 19
+[ORDER] SELL | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 596.222 | Quantity: 38
+[ORDER] SELL | Company: Visa Inc. (V) | Price: 393.433 | Quantity: 25
+[ORDER] BUY | Company: Tata Consultancy Services (TCS.NS) | Price: 52.8045 | Quantity: 50
+[ORDER] BUY | Company: Tata Consultancy Services (TCS.NS) | Price: 52.8045 | Quantity: 50
+[ORDER] SELL | Company: Walmart Inc. (WMT) | Price: 956.673 | Quantity: 13
+[ORDER] BUY | Company: Walmart Inc. (WMT) | Price: 470.007 | Quantity: 45
+[ORDER] SELL | Company: Rio Tinto Ltd. (RIO.AX) | Price: 916.429 | Quantity: 38
+[ORDER] SELL | Company: NVIDIA Corp. (NVDA) | Price: 700.614 | Quantity: 15
+[ORDER] SELL | Company: JPMorgan Chase & Co. (JPM) | Price: 502.528 | Quantity: 12
+[ORDER] SELL | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 354.412 | Quantity: 30
+[ORDER] SELL | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 354.412 | Quantity: 30
+[ORDER] BUY | Company: TotalEnergies SE (TTE.PA) | Price: 647.933 | Quantity: 4
+[MATCH] Company: Commonwealth Bank of Australia (CBA.AX) | Matching Buy @960.098 with Sell @354.412 | Quantity: 30
+[ORDER] BUY | Company: Tesla Inc. (TSLA) | Price: 79.6436 | Quantity: 15
+[TRADE] Company: Commonwealth Bank of Australia (CBA.AX) | Buy @960.098 | Sell @354.412 | Quantity: 30
+[ORDER] SELL | Company: Siemens AG (SIE.DE) | Price: 458.232 | Quantity: 11
+[ORDER] BUY | Company: Air Canada (AC.TO) | Price: 562.744 | Quantity: 41
+[ORDER] BUY | Company: Shell plc (SHEL.L) | Price: 203.653 | Quantity: 27
+[ORDER] BUY | Company: Shell plc (SHEL.L) | Price: 203.653 | Quantity: 27
+[ORDER] SELL | Company: Sony Corporation (6758.T) | Price: 433.047 | Quantity: 10
+[ORDER] BUY | Company: Air Canada (AC.TO) | Price: 332.019 | Quantity: 32
+[ORDER] BUY | Company: SAP SE (SAP.DE) | Price: 49.3755 | Quantity: 16
+[ORDER] SELL | Company: Toronto-Dominion Bank (TD.TO) | Price: 226.99 | Quantity: 49
+[ORDER] SELL | Company: Rio Tinto Ltd. (RIO.AX) | Price: 753.854 | Quantity: 34
+[ORDER] BUY | Company: Roche Holding AG (ROG.SW) | Price: 113.385 | Quantity: 15
+[ORDER] SELL | Company: HSBC Holdings plc (HSBA.L) | Price: 687.595 | Quantity: 42
+[ORDER] BUY | Company: Bank of Montreal (BMO.TO) | Price: 747.905 | Quantity: 26
+[ORDER] SELL | Company: Siemens AG (SIE.DE) | Price: 30.8129 | Quantity: 7
+[ORDER] BUY | Company: Unilever plc (ULVR.L) | Price: 289.646 | Quantity: 23
+[ORDER] BUY | Company: Tesla Inc. (TSLA) | Price: 261.825 | Quantity: 28
+[ORDER] SELL | Company: Unilever plc (ULVR.L) | Price: 557.068 | Quantity: 31
+[ORDER] SELL | Company: Visa Inc. (V) | Price: 947.434 | Quantity: 16
+[ORDER] BUY | Company: TotalEnergies SE (TTE.PA) | Price: 823.4 | Quantity: 18
+[ORDER] SELL | Company: Procter & Gamble Co. (PG) | Price: 434.666 | Quantity: 29
+[ORDER] SELL | Company: Meta Platforms Inc. (META) | Price: 968.994 | Quantity: 21
+[ORDER] SELL | Company: Johnson & Johnson (JNJ) | Price: 480.532 | Quantity: 36
+[ORDER] BUY | Company: BP plc (BP.L) | Price: 740.568 | Quantity: 14
+[ORDER] SELL | Company: Unilever plc (ULVR.L) | Price: 6.28488 | Quantity: 11
+[ORDER] BUY | Company: Samsung Electronics (005930.KQ) | Price: 306.573 | Quantity: 20
+[ORDER] SELL | Company: Infosys Ltd. (INFY.NS) | Price: 575.79 | Quantity: 46
+[ORDER] SELL | Company: Walmart Inc. (WMT) | Price: 546.202 | Quantity: 37
+[ORDER] SELL | Company: NVIDIA Corp. (NVDA) | Price: 256.588 | Quantity: 40
+[ORDER] SELL | Company: Infosys Ltd. (INFY.NS) | Price: 780.536 | Quantity: 33
+[ORDER] SELL | Company: NVIDIA Corp. (NVDA) | Price: 256.588 | Quantity: 40
+[ORDER] BUY | Company: Sony Group Corp. (6758.T) | Price: 720.709 | Quantity: 24
+[MATCH] Company: Sony Group Corp. (6758.T) | Matching Buy @720.709 with Sell @475.762 | Quantity: 4
+[TRADE] Company: Sony Group Corp. (6758.T) | Buy @720.709 | Sell @475.762 | Quantity: 4
+[ORDER] SELL | Company: SAP SE (SAP.DE) | Price: 449.242 | Quantity: 28
+[ORDER] SELL | Company: Sony Corporation (6758.T) | Price: 553.477 | Quantity: 11
+[ORDER] BUY | Company: Samsung Electronics (005930.KQ) | Price: 429.308 | Quantity: 29
+[ORDER] BUY | Company: BP plc (BP.L) | Price: 958.815 | Quantity: 3
+[ORDER] BUY | Company: Apple Inc. (AAPL) | Price: 606.302 | Quantity: 35
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 215.535 | Quantity: 18
+[ORDER] BUY | Company: Rio Tinto Ltd. (RIO.AX) | Price: 620.443 | Quantity: 45
+[ORDER] BUY | Company: Amazon.com Inc. (AMZN) | Price: 735.488 | Quantity: 22
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 98.5896 | Quantity: 43
+[ORDER] SELL | Company: Walmart Inc. (WMT) | Price: 692.964 | Quantity: 9
+[ORDER] BUY | Company: Visa Inc. (V) | Price: 38.9527 | Quantity: 22
+[ORDER] BUY | Company: HSBC Holdings plc (HSBA.L) | Price: 486.739 | Quantity: 15
+[ORDER] BUY | Company: Microsoft Corp. (MSFT) | Price: 742.988 | Quantity: 16
+[ORDER] BUY | Company: Tencent Holdings Ltd. (0700.HK) | Price: 698.095 | Quantity: 2
+[ORDER] BUY | Company: Amazon.com Inc. (AMZN) | Price: 677.689 | Quantity: 23
+[ORDER] SELL | Company: Shopify Inc. (SHOP.TO) | Price: 564.4 | Quantity: 42
+[ORDER] SELL | Company: JPMorgan Chase & Co. (JPM) | Price: 869.32 | Quantity: 18
+[ORDER] SELL | Company: Nestlé S.A. (NESN.SW) | Price: 415.45 | Quantity: 34
+[ORDER] SELL | Company: Roche Holding AG (ROG.SW) | Price: 653.423 | Quantity: 8
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 958.875 | Quantity: 40
+[ORDER] BUY | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 566.108 | Quantity: 8
+[ORDER] SELL | Company: Meta Platforms Inc. (META) | Price: 65.9977 | Quantity: 11
+[ORDER] SELL | Company: Apple Inc. (AAPL) | Price: 912.078 | Quantity: 34
+[ORDER] SELL | Company: Procter & Gamble Co. (PG) | Price: 638.629 | Quantity: 32
+[ORDER] SELL | Company: Procter & Gamble Co. (PG) | Price: 720.876 | Quantity: 30
+[ORDER] BUY | Company: Apple Inc. (AAPL) | Price: 835.699 | Quantity: 28
+[ORDER] BUY | Company: UnitedHealth Group Inc. (UNH) | Price: 984.131 | Quantity: 5
+[ORDER] BUY | Company: Unilever plc (ULVR.L) | Price: 829.863 | Quantity: 19
+[ORDER] BUY | Company: Tencent Holdings Ltd. (0700.HK) | Price: 864.125 | Quantity: 15
+[MATCH] Company: Unilever plc (ULVR.L) | Matching Buy @829.863 with Sell @379.856 | Quantity: 19
+[TRADE] Company: Unilever plc (ULVR.L) | Buy @829.863 | Sell @379.856 | Quantity: 19
+[ORDER] SELL | Company: Volkswagen AG (VOW.DE) | Price: 367.258 | Quantity: 25
+[ORDER] SELL | Company: JPMorgan Chase & Co. (JPM) | Price: 978.872 | Quantity: 7
+[ORDER] BUY | Company: Toronto-Dominion Bank (TD.TO) | Price: 374.292 | Quantity: 45
+[ORDER] BUY | Company: Rio Tinto Ltd. (RIO.AX) | Price: 926.727 | Quantity: 22
+[ORDER] BUY | Company: Rio Tinto Ltd. (RIO.AX) | Price: 926.727 | Quantity: 22
+[ORDER] BUY | Company: Visa Inc. (V) | Price: 766.068 | Quantity: 40
+[ORDER] SELL | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 719.977 | Quantity: 45
+[ORDER] BUY | Company: Tencent Holdings Ltd. (0700.HK) | Price: 213.677 | Quantity: 43
+[ORDER] SELL | Company: BP plc (BP.L) | Price: 703.442 | Quantity: 19
+[ORDER] SELL | Company: Shopify Inc. (SHOP.TO) | Price: 155.409 | Quantity: 16
+[ORDER] BUY | Company: Toyota Motor Corp. (7203.T) | Price: 633.909 | Quantity: 37
+[ORDER] BUY | Company: Toyota Motor Corp. (7203.T) | Price: 633.909 | Quantity: 37
+[ORDER] SELL | Company: SAP SE (SAP.DE) | Price: 271.412 | Quantity: 4
+[ORDER] BUY | Company: Volkswagen AG (VOW.DE) | Price: 413.052 | Quantity: 29
+[ORDER] SELL | Company: Siemens AG (SIE.DE) | Price: 341.698 | Quantity: 3
+[ORDER] SELL | Company: Air Canada (AC.TO) | Price: 801.842 | Quantity: 19
+[ORDER] BUY | Company: Johnson & Johnson (JNJ) | Price: 431.788 | Quantity: 41
+[ORDER] BUY | Company: Johnson & Johnson (JNJ) | Price: 431.788 | Quantity: 41
+[ORDER] SELL | Company: Visa Inc. (V) | Price: 650.418 | Quantity: 13
+[ORDER] SELL | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 562.767 | Quantity: 30
+[ORDER] SELL | Company: Volkswagen AG (VOW.DE) | Price: 629.822 | Quantity: 24
+[ORDER] BUY | Company: Samsung Electronics (005930.KQ) | Price: 387.945 | Quantity: 40
+[ORDER] SELL | Company: Apple Inc. (AAPL) | Price: 3.35883 | Quantity: 26
+[ORDER] BUY | Company: Nestlé S.A. (NESN.SW) | Price: 860.666 | Quantity: 47
+[ORDER] BUY | Company: Shopify Inc. (SHOP.TO) | Price: 773.201 | Quantity: 22
+[MATCH] Company: Shopify Inc. (SHOP.TO) | Matching Buy @773.201 with Sell @564.4 | Quantity: 22
+[TRADE] Company: Shopify Inc. (SHOP.TO) | Buy @773.201 | Sell @564.4 | Quantity: 22
+[ORDER] BUY | Company: Rio Tinto Ltd. (RIO.AX) | Price: 65.3442 | Quantity: 11
+[ORDER] BUY | Company: Canadian National Railway Co. (CNR.TO) | Price: 280.893 | Quantity: 50
+[ORDER] BUY | Company: Royal Bank of Canada (RY.TO) | Price: 914.013 | Quantity: 47
+[ORDER] BUY | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 514.55 | Quantity: 19
+[ORDER] BUY | Company: Roche Holding AG (ROG.SW) | Price: 442.505 | Quantity: 44
+[ORDER] BUY | Company: BP plc (BP.L) | Price: 876.196 | Quantity: 38
+[ORDER] SELL | Company: Unilever plc (ULVR.L) | Price: 857.447 | Quantity: 31
+[ORDER] SELL | Company: BP plc (BP.L) | Price: 435.772 | Quantity: 29
+[ORDER] SELL | Company: BP plc (BP.L) | Price: 435.772 | Quantity: 29
+[ORDER] BUY | Company: Infosys Ltd. (INFY.NS) | Price: 967.529 | Quantity: 18
+[ORDER] BUY | Company: Air Canada (AC.TO) | Price: 227.829 | Quantity: 11
+[ORDER] BUY | Company: Tesla Inc. (TSLA) | Price: 451.974 | Quantity: 32
+[ORDER] SELL | Company: Nestlé S.A. (NESN.SW) | Price: 558.724 | Quantity: 36
+[ORDER] SELL | Company: Infosys Ltd. (INFY.NS) | Price: 790.282 | Quantity: 34
+[ORDER] SELL | Company: Meta Platforms Inc. (META) | Price: 944.112 | Quantity: 12
+[ORDER] BUY | Company: Tesla Inc. (TSLA) | Price: 362.116 | Quantity: 38
+[ORDER] SELL | Company: BHP Group Ltd. (BHP.AX) | Price: 589.735 | Quantity: 1
+[ORDER] BUY | Company: Apple Inc. (AAPL) | Price: 305.932 | Quantity: 48
+[ORDER] SELL | Company: Johnson & Johnson (JNJ) | Price: 391.048 | Quantity: 4
+[MATCH] Company: Johnson & Johnson (JNJ) | Matching Buy @431.788 with Sell @391.048 | Quantity: 4
+[TRADE] Company: Johnson & Johnson (JNJ) | Buy @431.788 | Sell @391.048 | Quantity: 4
+[ORDER] BUY | Company: Samsung Electronics (005930.KQ) | Price: 251.762 | Quantity: 35
+[ORDER] SELL | Company: BP plc (BP.L) | Price: 4.6132 | Quantity: 42
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 455.694 | Quantity: 45
+[ORDER] SELL | Company: Visa Inc. (V) | Price: 631.004 | Quantity: 46
+[ORDER] BUY | Company: Amazon.com Inc. (AMZN) | Price: 901.576 | Quantity: 1
+[ORDER] SELL | Company: JPMorgan Chase & Co. (JPM) | Price: 232.999 | Quantity: 22
+[ORDER] BUY | Company: Rio Tinto Ltd. (RIO.AX) | Price: 207.587 | Quantity: 39
+[ORDER] BUY | Company: JPMorgan Chase & Co. (JPM) | Price: 46.9459 | Quantity: 41
+63.0179 | Quantity: 14
+[ORDER] SELL | Company: Infosys Ltd. (INFY.NS) | Price: 270.987 | Quantity: 35
+[ORDER] BUY | Company: Canadian National Railway Co. (CNR.TO) | Price: 453.353 | Quantity: 47
+[ORDER] SELL | Company: UnitedHealth Group Inc. (UNH) | Price: 676.148 | Quantity: 33
+[ORDER] SELL | Company: Amazon.com Inc. (AMZN) | Price: 980.587 | Quantity: 27
+[ORDER] BUY | Company: TotalEnergies SE (TTE.PA) | Price: 493.978 | Quantity: 50
+[ORDER] SELL | Company: Volkswagen AG (VOW.DE) | Price: 781.756 | Quantity: 48
+[ORDER] SELL | Company: Sony Corporation (6758.T) | Price: 46.4035 | Quantity: 36
+[ORDER] SELL | Company: Sony Corporation (6758.T) | Price: 46.4035 | Quantity: 36
+[ORDER] BUY | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 703.595 | Quantity: 3
+[ORDER] SELL | Company: NVIDIA Corp. (NVDA) | Price: 775.544 | Quantity: 18
+[ORDER] SELL | Company: JPMorgan Chase & Co. (JPM) | Price: 316.219 | Quantity: 4
+[ORDER] SELL | Company: Amazon.com Inc. (AMZN) | Price: 363.053 | Quantity: 49
+[ORDER] SELL | Company: Amazon.com Inc. (AMZN) | Price: 556.228 | Quantity: 11
+[ORDER] BUY | Company: Infosys Ltd. (INFY.NS) | Price: 794.561 | Quantity: 3
+[ORDER] BUY | Company: Microsoft Corp. (MSFT) | Price: 363.284 | Quantity: 11
+[ORDER] BUY | Company: Tencent Holdings Ltd. (0700.HK) | Price: 510.473 | Quantity: 2
+[ORDER] SELL | Company: Walmart Inc. (WMT) | Price: 464.669 | Quantity: 41
+[ORDER] BUY | Company: UnitedHealth Group Inc. (UNH) | Price: 664.13 | Quantity: 46
+[ORDER] BUY | Company: HSBC Holdings plc (HSBA.L) | Price: 440.039 | Quantity: 45
+[ORDER] BUY | Company: Nestlé S.A. (NESN.SW) | Price: 740.846 | Quantity: 47
+[MATCH] Company: Nestlé S.A. (NESN.SW) | Matching Buy @740.846 with Sell @415.45 | Quantity: 34
+[TRADE] Company: Nestlé S.A. (NESN.SW) | Buy @740.846 | Sell @415.45 | Quantity: 34
+[ORDER] BUY | Company: Infosys Ltd. (INFY.NS) | Price: 675.261 | Quantity: 5
+[ORDER] BUY | Company: Visa Inc. (V) | Price: 355.326 | Quantity: 39
+[ORDER] SELL | Company: JPMorgan Chase & Co. (JPM) | Price: 800.173 | Quantity: 34
+[ORDER] SELL | Company: Infosys Ltd. (INFY.NS) | Price: 173.738 | Quantity: 16
+[ORDER] SELL | Company: Procter & Gamble Co. (PG) | Price: 318.846 | Quantity: 7
+[ORDER] BUY | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 322.811 | Quantity: 31
+[ORDER] SELL | Company: Alphabet Inc. (GOOGL) | Price: 202.066 | Quantity: 1
+[ORDER] SELL | Company: Canadian National Railway Co. (CNR.TO) | Price: 3.56257 | Quantity: 35
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 474.753 | Quantity: 49
+[ORDER] SELL | Company: Tesla Inc. (TSLA) | Price: 866.006 | Quantity: 35
+[ORDER] BUY | Company: CSL Ltd. (CSL.AX) | Price: 761.635 | Quantity: 10
+[ORDER] BUY | Company: Walmart Inc. (WMT) | Price: 788.123 | Quantity: 2
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 976.808 | Quantity: 14
+[ORDER] SELL | Company: Infosys Ltd. (INFY.NS) | Price: 702.651 | Quantity: 43
+[ORDER] BUY | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 621.827 | Quantity: 14
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 465.771 | Quantity: 13
+[ORDER] SELL | Company: Shell plc (SHEL.L) | Price: 999.754 | Quantity: 18
+[ORDER] BUY | Company: Unilever plc (ULVR.L) | Price: 178.739 | Quantity: 26
+[ORDER] BUY | Company: Sony Corporation (6758.T) | Price: 610.299 | Quantity: 38
+[ORDER] BUY | Company: Infosys Ltd. (INFY.NS) | Price: 545.162 | Quantity: 5
+[ORDER] SELL | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 966.834 | Quantity: 17
+[ORDER] BUY | Company: Visa Inc. (V) | Price: 410.995 | Quantity: 45
+[MATCH] Company: Visa Inc. (V) | Matching Buy @410.995 with Sell @393.433 | Quantity: 25
+[TRADE] Company: Visa Inc. (V) | Buy @410.995 | Sell @393.433 | Quantity: 25
+[ORDER] SELL | Company: Roche Holding AG (ROG.SW) | Price: 282.506 | Quantity: 12
+[ORDER] SELL | Company: Sony Group Corp. (6758.T) | Price: 435.906 | Quantity: 18
+[ORDER] BUY | Company: Apple Inc. (AAPL) | Price: 330.984 | Quantity: 14
+[ORDER] SELL | Company: Microsoft Corp. (MSFT) | Price: 117.619 | Quantity: 26
+[ORDER] SELL | Company: Nestlé S.A. (NESN.SW) | Price: 743.689 | Quantity: 22
+[ORDER] BUY | Company: Samsung Electronics (005930.KQ) | Price: 694.795 | Quantity: 33
+[ORDER] BUY | Company: Samsung Electronics (005930.KQ) | Price: 694.795 | Quantity: 33
+[ORDER] SELL | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 673.739 | Quantity: 6
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 345.094 | Quantity: 29
+[ORDER] BUY | Company: Canadian National Railway Co. (CNR.TO) | Price: 328.44 | Quantity: 3
+[ORDER] SELL | Company: Bank of Montreal (BMO.TO) | Price: 13.7821 | Quantity: 14
+[ORDER] BUY | Company: Nestlé S.A. (NESN.SW) | Price: 136.291 | Quantity: 27
+[ORDER] SELL | Company: Alphabet Inc. (GOOGL) | Price: 709.837 | Quantity: 2
+[ORDER] BUY | Company: Samsung Electronics (005930.KQ) | Price: 56.6138 | Quantity: 14
+[ORDER] BUY | Company: Meta Platforms Inc. (META) | Price: 704.626 | Quantity: 10
+[ORDER] SELL | Company: BHP Group Ltd. (BHP.AX) | Price: 387.811 | Quantity: 36
+[ORDER] BUY | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 814.596 | Quantity: 44
+[MATCH] Company: BHP Group Ltd. (BHP.AX) | Matching Buy @873.429 with Sell @387.811 | Quantity: 8
+[ORDER] SELL | Company: Meta Platforms Inc. (META) | Price: 560.02 | Quantity: 7
+[ORDER] BUY | Company: Toyota Motor Corp. (7203.T) | Price: 562.721 | Quantity: 6
+[TRADE] Company: BHP Group Ltd. (BHP.AX) | Buy @873.429 | Sell @387.811 | Quantity: 8
+[ORDER] SELL | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 462.98 | Quantity: 37
+[ORDER] SELL | Company: Rio Tinto Ltd. (RIO.AX) | Price: 365.201 | Quantity: 46
+[ORDER] SELL | Company: Nestlé S.A. (NESN.SW) | Price: 157.129 | Quantity: 42
+[ORDER] SELL | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 813.237 | Quantity: 5
+[ORDER] BUY | Company: Siemens AG (SIE.DE) | Price: 567.801 | Quantity: 19
+[ORDER] BUY | Company: Exxon Mobil Corp. (XOM) | Price: 427.742 | Quantity: 49
+[MATCH] Company: Siemens AG (SIE.DE) | Matching Buy @567.801 with Sell @341.698 | Quantity: 3
+[TRADE] Company: Siemens AG (SIE.DE) | Buy @567.801 | Sell @341.698 | Quantity: 3
+[ORDER] BUY | Company: HSBC Holdings plc (HSBA.L) | Price: 846.259 | Quantity: 39
+[ORDER] BUY | Company: Rio Tinto Ltd. (RIO.AX) | Price: 514.757 | Quantity: 45
+[ORDER] SELL | Company: Royal Bank of Canada (RY.TO) | Price: 347.975 | Quantity: 22
+[ORDER] SELL | Company: NVIDIA Corp. (NVDA) | Price: 563.489 | Quantity: 50
+[ORDER] SELL | Company: Tesla Inc. (TSLA) | Price: 794.88 | Quantity: 3
+[ORDER] BUY | Company: Toyota Motor Corp. (7203.T) | Price: 537.459 | Quantity: 10
+[ORDER] BUY | Company: CSL Ltd. (CSL.AX) | Price: 974.968 | Quantity: 1
+[ORDER] SELL | Company: NVIDIA Corp. (NVDA) | Price: 358.973 | Quantity: 12
+[ORDER] BUY | Company: Microsoft Corp. (MSFT) | Price: 113.029 | Quantity: 20
+[ORDER] BUY | Company: Unilever plc (ULVR.L) | Price: 619.92 | Quantity: 4
+[ORDER] SELL | Company: Bank of Montreal (BMO.TO) | Price: 263.422 | Quantity: 45
+[ORDER] BUY | Company: Apple Inc. (AAPL) | Price: 930.385 | Quantity: 8
+[ORDER] SELL | Company: Infosys Ltd. (INFY.NS) | Price: 731.85 | Quantity: 19
+[ORDER] SELL | Company: Volkswagen AG (VOW.DE) | Price: 360.121 | Quantity: 37
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 919.053 | Quantity: 50
+[ORDER] BUY | Company: CSL Ltd. (CSL.AX) | Price: 253.642 | Quantity: 41
+[ORDER] BUY | Company: BHP Group Ltd. (BHP.AX) | Price: 512.36 | Quantity: 22
+[MATCH] Company: BHP Group Ltd. (BHP.AX) | Matching Buy @512.36 with Sell @387.811 | Quantity: 22
+[TRADE] Company: BHP Group Ltd. (BHP.AX) | Buy @512.36 | Sell @387.811 | Quantity: 22
+[ORDER] SELL | Company: Toronto-Dominion Bank (TD.TO) | Price: 731.443 | Quantity: 22
+[ORDER] BUY | Company: Exxon Mobil Corp. (XOM) | Price: 540.209 | Quantity: 8
+[ORDER] SELL | Company: TotalEnergies SE (TTE.PA) | Price: 716.495 | Quantity: 16
+[ORDER] BUY | Company: Sony Corporation (6758.T) | Price: 767.595 | Quantity: 28
+[ORDER] SELL | Company: Roche Holding AG (ROG.SW) | Price: 456.048 | Quantity: 7
+[ORDER] BUY | Company: Infosys Ltd. (INFY.NS) | Price: 677.247 | Quantity: 10
+[ORDER] BUY | Company: Roche Holding AG (ROG.SW) | Price: 837.836 | Quantity: 10
+[ORDER] BUY | Company: Visa Inc. (V) | Price: 140.734 | Quantity: 20
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 853.696 | Quantity: 28
+[ORDER] SELL | Company: Air Canada (AC.TO) | Price: 824.912 | Quantity: 30
+[ORDER] SELL | Company: NVIDIA Corp. (NVDA) | Price: 88.8995 | Quantity: 10
+[ORDER] BUY | Company: Apple Inc. (AAPL) | Price: 650.477 | Quantity: 25
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 586.357 | Quantity: 47
+[ORDER] SELL | Company: Walmart Inc. (WMT) | Price: 538.855 | Quantity: 10
+[ORDER] SELL | Company: Walmart Inc. (WMT) | Price: 538.855 | Quantity: 10
+[ORDER] BUY | Company: Rio Tinto Ltd. (RIO.AX) | Price: 341.12 | Quantity: 38
+[ORDER] BUY | Company: HSBC Holdings plc (HSBA.L) | Price: 320.991 | Quantity: 12
+[ORDER] SELL | Company: SoftBank Group Corp. (9984.T) | Price: 565.583 | Quantity: 26
+[ORDER] BUY | Company: Infosys Ltd. (INFY.NS) | Price: 691.006 | Quantity: 38
+[ORDER] SELL | Company: NVIDIA Corp. (NVDA) | Price: 107.027 | Quantity: 43
+[ORDER] BUY | Company: HSBC Holdings plc (HSBA.L) | Price: 979.685 | Quantity: 5
+[ORDER] BUY | Company: NVIDIA Corp. (NVDA) | Price: 429.189 | Quantity: 24
+[ORDER] BUY | Company: BHP Group Ltd. (BHP.AX) | Price: 939.814 | Quantity: 33
+[ORDER] BUY | Company: HSBC Holdings plc (HSBA.L) | Price: 287.704 | Quantity: 41
+[ORDER] BUY | Company: Toronto-Dominion Bank (TD.TO) | Price: 356.41 | Quantity: 44
+[ORDER] SELL | Company: Shell plc (SHEL.L) | Price: 713.875 | Quantity: 4
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 770.453 | Quantity: 22
+[ORDER] SELL | Company: Toyota Motor Corp. (7203.T) | Price: 773.453 | Quantity: 26
+[ORDER] BUY | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 782.379 | Quantity: 49
+[ORDER] SELL | Company: Air Canada (AC.TO) | Price: 179.231 | Quantity: 49
+[ORDER] BUY | Company: HSBC Holdings plc (HSBA.L) | Price: 170.357 | Quantity: 44
+[ORDER] SELL | Company: Samsung Electronics (005930.KQ) | Price: 406.643 | Quantity: 25
+[ORDER] BUY | Company: Infosys Ltd. (INFY.NS) | Price: 878.089 | Quantity: 8
+[ORDER] SELL | Company: UnitedHealth Group Inc. (UNH) | Price: 238.804 | Quantity: 47
+[ORDER] BUY | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 514.251 | Quantity: 39
+[ORDER] SELL | Company: Procter & Gamble Co. (PG) | Price: 553.095 | Quantity: 16
+[ORDER] SELL | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 980.567 | Quantity: 33
+[ORDER] BUY | Company: Shopify Inc. (SHOP.TO) | Price: 116.675 | Quantity: 44
+[ORDER] SELL | Company: Siemens AG (SIE.DE) | Price: 868.991 | Quantity: 40
+[ORDER] SELL | Company: Shell plc (SHEL.L) | Price: 429.161 | Quantity: 43
+[ORDER] SELL | Company: Shell plc (SHEL.L) | Price: 429.161 | Quantity: 43
+[ORDER] SELL | Company: Shell plc (SHEL.L) | Price: 957.056 | Quantity: 28
+[ORDER] SELL | Company: Sony Group Corp. (6758.T) | Price: 237.177 | Quantity: 14
+[ORDER] SELL | Company: Exxon Mobil Corp. (XOM) | Price: 323.429 | Quantity: 29
+[ORDER] BUY | Company: Shell plc (SHEL.L) | Price: 542.56 | Quantity: 49
+[ORDER] SELL | Company: Nestlé S.A. (NESN.SW) | Price: 507.086 | Quantity: 45
+[ORDER] BUY | Company: Rio Tinto Ltd. (RIO.AX) | Price: 736.681 | Quantity: 33
+[ORDER] BUY | Company: Tencent Holdings Ltd. (0700.HK) | Price: 722.551 | Quantity: 47
+[ORDER] BUY | Company: Rio Tinto Ltd. (RIO.AX) | Price: 638.108 | Quantity: 38
+[ORDER] SELL | Company: JPMorgan Chase & Co. (JPM) | Price: 521.676 | Quantity: 19
+[ORDER] BUY | Company: Meta Platforms Inc. (META) | Price: 199.782 | Quantity: 34
+[ORDER] BUY | Company: Sony Corporation (6758.T) | Price: 984.81 | Quantity: 2
+[MATCH] Company: Sony Corporation (6758.T) | Matching Buy @984.81 with Sell @588.607 | Quantity: 2
+[TRADE] Company: Sony Corporation (6758.T) | Buy @984.81 | Sell @588.607 | Quantity: 2
+[ORDER] SELL | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 90.1812 | Quantity: 43
+[ORDER] BUY | Company: Volkswagen AG (VOW.DE) | Price: 598.318 | Quantity: 12
+[ORDER] BUY | Company: NVIDIA Corp. (NVDA) | Price: 382.242 | Quantity: 13
+[ORDER] BUY | Company: HSBC Holdings plc (HSBA.L) | Price: 769.409 | Quantity: 1
+[ORDER] SELL | Company: Shopify Inc. (SHOP.TO) | Price: 279.84 | Quantity: 29
+[ORDER] SELL | Company: Bank of Montreal (BMO.TO) | Price: 216.187 | Quantity: 40
+[ORDER] SELL | Company: Toronto-Dominion Bank (TD.TO) | Price: 765.206 | Quantity: 2
+[ORDER] SELL | Company: Rio Tinto Ltd. (RIO.AX) | Price: 215.783 | Quantity: 6
+[ORDER] SELL | Company: SoftBank Group Corp. (9984.T) | Price: 992.16 | Quantity: 33
+[ORDER] BUY | Company: Siemens AG (SIE.DE) | Price: 882.321 | Quantity: 30
+[ORDER] SELL | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 514.492 | Quantity: 2
+[ORDER] BUY | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 129.765 | Quantity: 12
+[ORDER] SELL | Company: CSL Ltd. (CSL.AX) | Price: 930.581 | Quantity: 25
+[ORDER] SELL | Company: Air Canada (AC.TO) | Price: 372.557 | Quantity: 6
+[ORDER] SELL | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 342.014 | Quantity: 47
+[ORDER] SELL | Company: CSL Ltd. (CSL.AX) | Price: 423.041 | Quantity: 6
+[ORDER] BUY | Company: Samsung Electronics (005930.KQ) | Price: 889.973 | Quantity: 24
+[ORDER] SELL | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 161.504 | Quantity: 25
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 639.14 | Quantity: 11
+[ORDER] BUY | Company: TotalEnergies SE (TTE.PA) | Price: 804.014 | Quantity: 17
+[ORDER] SELL | Company: BP plc (BP.L) | Price: 116.05 | Quantity: 21
+[ORDER] SELL | Company: Walmart Inc. (WMT) | Price: 314.005 | Quantity: 13
+[ORDER] SELL | Company: Tesla Inc. (TSLA) | Price: 826.13 | Quantity: 10
+[ORDER] SELL | Company: Tesla Inc. (TSLA) | Price: 826.13 | Quantity: 10
+[ORDER] SELL | Company: Sony Corporation (6758.T) | Price: 968.616 | Quantity: 50
+[ORDER] SELL | Company: BP plc (BP.L) | Price: 128.88 | Quantity: 2
+[MATCH] Company: BP plc (BP.L) | Matching Buy @958.815 with Sell @128.88 | Quantity: 2
+[TRADE] Company: BP plc (BP.L) | Buy @958.815 | Sell @128.88 | Quantity: 2
+[ORDER] BUY | Company: Procter & Gamble Co. (PG) | Price: 863.135 | Quantity: 46
+[ORDER] BUY | Company: Procter & Gamble Co. (PG) | Price: 863.135 | Quantity: 46
+[ORDER] SELL | Company: HSBC Holdings plc (HSBA.L) | Price: 822.601 | Quantity: 43
+[MATCH] Company: Procter & Gamble Co. (PG) | Matching Buy @863.135 with Sell @720.876 | Quantity: 30
+[TRADE] Company: Procter & Gamble Co. (PG) | Buy @863.135 | Sell @720.876 | Quantity: 30
+[ORDER] SELL | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 556.567 | Quantity: 32
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 468.827 | Quantity: 32
+[ORDER] SELL | Company: SAP SE (SAP.DE) | Price: 983.272 | Quantity: 32
+[ORDER] SELL | Company: SAP SE (SAP.DE) | Price: 235.607 | Quantity: 21
+[ORDER] BUY | Company: Amazon.com Inc. (AMZN) | Price: 511.588 | Quantity: 49
+[ORDER] SELL | Company: JPMorgan Chase & Co. (JPM) | Price: 237.379 | Quantity: 4
+[MATCH] Company: JPMorgan Chase & Co. (JPM) | Matching Buy @813.792 with Sell @237.379 | Quantity: 4
+[TRADE] Company: JPMorgan Chase & Co. (JPM) | Buy @813.792 | Sell @237.379 | Quantity: 4
+[ORDER] BUY | Company: Visa Inc. (V) | Price: 865.221 | Quantity: 42
+[ORDER] BUY | Company: UnitedHealth Group Inc. (UNH) | Price: 259.5 | Quantity: 13
+[ORDER] BUY | Company: Roche Holding AG (ROG.SW) | Price: 976.086 | Quantity: 11
+[ORDER] SELL | Company: Visa Inc. (V) | Price: 820.64 | Quantity: 21
+[ORDER] SELL | Company: Canadian National Railway Co. (CNR.TO) | Price: 755.083 | Quantity: 46
+[ORDER] SELL | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 399.356 | Quantity: 43
+[ORDER] SELL | Company: Unilever plc (ULVR.L) | Price: 403.932 | Quantity: 24
+[ORDER] BUY | Company: Samsung Electronics (005930.KQ) | Price: 353.476 | Quantity: 17
+[ORDER] SELL | Company: Volkswagen AG (VOW.DE) | Price: 234.373 | Quantity: 25
+[ORDER] BUY | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 745.23 | Quantity: 45
+[MATCH] Company: Commonwealth Bank of Australia (CBA.AX) | Matching Buy @745.23 with Sell @719.977 | Quantity: 45
+[TRADE] Company: Commonwealth Bank of Australia (CBA.AX) | Buy @745.23 | Sell @719.977 | Quantity: 45
+[ORDER] BUY | Company: Siemens AG (SIE.DE) | Price: 13.4693 | Quantity: 6
+[ORDER] BUY | Company: NVIDIA Corp. (NVDA) | Price: 809.858 | Quantity: 47
+[MATCH] Company: NVIDIA Corp. (NVDA) | Matching Buy @809.858 with Sell @700.614 | Quantity: 15
+[TRADE] Company: NVIDIA Corp. (NVDA) | Buy @809.858 | Sell @700.614 | Quantity: 15
+[ORDER] BUY | Company: BHP Group Ltd. (BHP.AX) | Price: 687.605 | Quantity: 15
+[ORDER] SELL | Company: Royal Bank of Canada (RY.TO) | Price: 612.366 | Quantity: 35
+[ORDER] BUY | Company: Samsung Electronics (005930.KQ) | Price: 561.69 | Quantity: 13
+[ORDER] SELL | Company: Unilever plc (ULVR.L) | Price: 927.025 | Quantity: 38
+[ORDER] SELL | Company: Johnson & Johnson (JNJ) | Price: 625.94 | Quantity: 35
+[ORDER] BUY | Company: UnitedHealth Group Inc. (UNH) | Price: 113.976 | Quantity: 39
+[ORDER] SELL | Company: Meta Platforms Inc. (META) | Price: 685.97 | Quantity: 44
+[ORDER] SELL | Company: Meta Platforms Inc. (META) | Price: 862.641 | Quantity: 36
+[ORDER] BUY | Company: Alphabet Inc. (GOOGL) | Price: 430.843 | Quantity: 12
+[ORDER] SELL | Company: Roche Holding AG (ROG.SW) | Price: 253.136 | Quantity: 12
+[ORDER] BUY | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 890.212 | Quantity: 37
+[ORDER] BUY | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 866.098 | Quantity: 48
+[ORDER] BUY | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 866.098 | Quantity: 48
+[ORDER] BUY | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 496.534 | Quantity: 22
+[ORDER] BUY | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 714.266 | Quantity: 2
+[ORDER] SELL | Company: Bank of Montreal (BMO.TO) | Price: 597.176 | Quantity: 41
+[ORDER] SELL | Company: Rio Tinto Ltd. (RIO.AX) | Price: 125.409 | Quantity: 32
+[MATCH] Company: Rio Tinto Ltd. (RIO.AX) | Matching Buy @420.932 with Sell @125.409 | Quantity: 23
+[TRADE] Company: Rio Tinto Ltd. (RIO.AX) | Buy @420.932 | Sell @125.409 | Quantity: 23
+[ORDER] BUY | Company: Sony Group Corp. (6758.T) | Price: 747.87 | Quantity: 20
+[ORDER] BUY | Company: SoftBank Group Corp. (9984.T) | Price: 433.558 | Quantity: 7
+[ORDER] BUY | Company: Visa Inc. (V) | Price: 650.417 | Quantity: 37
+[ORDER] BUY | Company: Tesla Inc. (TSLA) | Price: 642.495 | Quantity: 11
+[ORDER] BUY | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 467.021 | Quantity: 29
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 829.873 | Quantity: 12
+[ORDER] SELL | Company: Bank of Montreal (BMO.TO) | Price: 591.634 | Quantity: 46
+[ORDER] SELL | Company: Walmart Inc. (WMT) | Price: 130.832 | Quantity: 36
+[ORDER] BUY | Company: Siemens AG (SIE.DE) | Price: 837.831 | Quantity: 26
+[MATCH] Company: Siemens AG (SIE.DE) | Matching Buy @837.831 with Sell @458.232 | Quantity: 11
+[TRADE] Company: Siemens AG (SIE.DE) | Buy @837.831 | Sell @458.232 | Quantity: 11
+[ORDER] BUY | Company: Air Canada (AC.TO) | Price: 984.982 | Quantity: 24
+[ORDER] BUY | Company: Walmart Inc. (WMT) | Price: 614.771 | Quantity: 29
+[ORDER] SELL | Company: Canadian National Railway Co. (CNR.TO) | Price: 911.086 | Quantity: 21
+[ORDER] BUY | Company: Canadian National Railway Co. (CNR.TO) | Price: 625.236 | Quantity: 31
+[ORDER] SELL | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 382.807 | Quantity: 4
+[ORDER] SELL | Company: Samsung Electronics (005930.KQ) | Price: 623.045 | Quantity: 3
+[ORDER] BUY | Company: Shell plc (SHEL.L) | Price: 552.775 | Quantity: 25
+[ORDER] SELL | Company: Unilever plc (ULVR.L) | Price: 285.049 | Quantity: 29
+[ORDER] SELL | Company: Siemens AG (SIE.DE) | Price: 180.089 | Quantity: 43
+[MATCH] Company: Shell plc (SHEL.L) | Matching Buy @552.775 with Sell @429.161 | Quantity: 25
+[ORDER] BUY | Company: Unilever plc (ULVR.L) | Price: 433.652 | Quantity: 42
+[ORDER] BUY | Company: Visa Inc. (V) | Price: 355.973 | Quantity: 47
+[TRADE] Company: Shell plc (SHEL.L) | Buy @552.775 | Sell @429.161 | Quantity: 25
+[ORDER] SELL | Company: UnitedHealth Group Inc. (UNH) | Price: 693.72 | Quantity: 34
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 922.766 | Quantity: 21
+46.7252 | Quantity: 2
+[ORDER] SELL | Company: Bank of Montreal (BMO.TO) | Price: 759.967 | Quantity: 19
+[ORDER] BUY | Company: Microsoft Corp. (MSFT) | Price: 498.621 | Quantity: 3
+[ORDER] SELL | Company: Visa Inc. (V) | Price: 842.24 | Quantity: 32
+[ORDER] BUY | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 987.547 | Quantity: 14
+[ORDER] BUY | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 987.547 | Quantity: 14
+[ORDER] SELL | Company: BP plc (BP.L) | Price: 184.998 | Quantity: 30
+754.006 | Quantity: 8
+[ORDER] BUY | Company: Toronto-Dominion Bank (TD.TO) | Price: 612.48 | Quantity: 49
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 407.244 | Quantity: 19
+[ORDER] BUY | Company: Apple Inc. (AAPL) | Price: 419.168 | Quantity: 43
+[ORDER] BUY | Company: Bank of Montreal (BMO.TO) | Price: 348.84 | Quantity: 8
+[ORDER] BUY | Company: Meta Platforms Inc. (META) | Price: 273.89 | Quantity: 39
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 272.684 | Quantity: 15
+[ORDER] SELL | Company: Air Canada (AC.TO) | Price: 242.377 | Quantity: 46
+[ORDER] BUY | Company: Canadian National Railway Co. (CNR.TO) | Price: 664.516 | Quantity: 14
+[ORDER] SELL | Company: CSL Ltd. (CSL.AX) | Price: 843.064 | Quantity: 2
+[ORDER] SELL | Company: TotalEnergies SE (TTE.PA) | Price: 331.109 | Quantity: 42
+[ORDER] BUY | Company: Meta Platforms Inc. (META) | Price: 742.331 | Quantity: 4
+[ORDER] SELL | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 610.175 | Quantity: 15
+[ORDER] SELL | Company: Samsung Electronics (005930.KQ) | Price: 462.095 | Quantity: 3
+[ORDER] SELL | Company: Toronto-Dominion Bank (TD.TO) | Price: 285.069 | Quantity: 39
+[ORDER] SELL | Company: Shopify Inc. (SHOP.TO) | Price: 140.474 | Quantity: 38
+[ORDER] SELL | Company: Bank of Montreal (BMO.TO) | Price: 398.096 | Quantity: 45
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 495.53 | Quantity: 2
+[ORDER] BUY | Company: Shell plc (SHEL.L) | Price: 571.241 | Quantity: 28
+[ORDER] BUY | Company: CSL Ltd. (CSL.AX) | Price: [ORDER] 584.036BUY | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 28
+[ORDER] BUY | Company: CSL Ltd. (CSL.AX) | Price: [ORDER] 584.036BUY | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 28
+71.5234 | Quantity: 10
+[ORDER] BUY | Company: Johnson & Johnson (JNJ) | Price: 910.298 | Quantity: 26
+[MATCH] Company: Johnson & Johnson (JNJ) | Matching Buy @910.298 with Sell @480.532 | Quantity: 26
+[TRADE] Company: Johnson & Johnson (JNJ) | Buy @910.298 | Sell @480.532 | Quantity: 26
+[ORDER] SELL | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 712.256 | Quantity: 43
+[ORDER] SELL | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 25.0324 | Quantity: 16
+[ORDER] BUY | Company: Tencent Holdings Ltd. (0700.HK) | Price: 883.1 | Quantity: 41
+[ORDER] SELL | Company: JPMorgan Chase & Co. (JPM) | Price: 726.886 | Quantity: 14
+[ORDER] BUY | Company: Sony Group Corp. (6758.T) | Price: 214.288 | Quantity: 37
+[ORDER] SELL | Company: Toronto-Dominion Bank (TD.TO) | Price: 702.2 | Quantity: 8
+[ORDER] SELL | Company: TotalEnergies SE (TTE.PA) | Price: 155.048 | Quantity: 16
+[ORDER] BUY | Company: Siemens AG (SIE.DE) | Price: 676.834 | Quantity: 47
+[ORDER] SELL | Company: BP plc (BP.L) | Price: 501.67 | Quantity: 36
+[MATCH] Company: BP plc (BP.L) | Matching Buy @740.568 with Sell @501.67 | Quantity: 14
+[TRADE] Company: BP plc (BP.L) | Buy @740.568 | Sell @501.67 | Quantity: 14
+[ORDER] SELL | Company: Toyota Motor Corp. (7203.T) | Price: 332.198 | Quantity: 4
+[ORDER] BUY | Company: Toyota Motor Corp. (7203.T) | Price: 228.332 | Quantity: 31
+[ORDER] SELL | Company: Volkswagen AG (VOW.DE) | Price: 516.334 | Quantity: 11
+[ORDER] BUY | Company: NVIDIA Corp. (NVDA) | Price: 342.993 | Quantity: 42
+[ORDER] SELL | Company: Bank of Montreal (BMO.TO) | Price: 148.888 | Quantity: 44
+[MATCH] Company: Bank of Montreal (BMO.TO) | Matching Buy @348.84 with Sell @148.888 | Quantity: 8
+[ORDER] BUY | Company: Shopify Inc. (SHOP.TO) | Price: 82.1028 | Quantity: 16
+[TRADE] Company: Bank of Montreal (BMO.TO) | Buy @348.84 | Sell @148.888 | Quantity: 8
+[TRADE] Company: Bank of Montreal (BMO.TO) | Buy @348.84 | Sell @148.888 | Quantity: 8
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 397.333 | Quantity: 12
+[ORDER] BUY | Company: Siemens AG (SIE.DE) | Price: 58.4374 | Quantity: 39
+[ORDER] BUY | Company: Canadian National Railway Co. (CNR.TO) | Price: 294.965 | Quantity: 5
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 730.172 | Quantity: 7
+[ORDER] BUY | Company: Canadian National Railway Co. (CNR.TO) | Price: 223.55 | Quantity: 40
+[ORDER] SELL | Company: Tesla Inc. (TSLA) | Price: 74.4401 | Quantity: 25
+[ORDER] BUY | Company: Alphabet Inc. (GOOGL) | Price: 193.56 | Quantity: 26
+[ORDER] SELL | Company: Sony Corporation (6758.T) | Price: 639.136 | Quantity: 18
+[ORDER] SELL | Company: Air Canada (AC.TO) | Price: 637.426 | Quantity: 10
+[ORDER] SELL | Company: SoftBank Group Corp. (9984.T) | Price: 37.6019 | Quantity: 13
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 505.019 | Quantity: 23
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 505.019 | Quantity: 23
+[ORDER] SELL | Company: Canadian National Railway Co. (CNR.TO) | Price: 5.09864 | Quantity: 33
+[MATCH] Company: Alibaba Group Holding Ltd. (9988.HK) | Matching Buy @714.266 with Sell @505.019 | Quantity: 2
+[TRADE] Company: Alibaba Group Holding Ltd. (9988.HK) | Buy @714.266 | Sell @505.019 | Quantity: 2
+[ORDER] BUY | Company: Toyota Motor Corp. (7203.T) | Price: 16.9574 | Quantity: 25
+[ORDER] SELL | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 547.236 | Quantity: 15
+[ORDER] SELL | Company: Volkswagen AG (VOW.DE) | Price: 728.857 | Quantity: 26
+166.125 | Quantity: 15
+[ORDER] BUY | Company: Meta Platforms Inc. (META) | Price: 868.285 | Quantity: 35
+[ORDER] SELL | Company: CSL Ltd. (CSL.AX) | Price: 342.81 | Quantity: 11
+[ORDER] BUY | Company: Shopify Inc. (SHOP.TO) | Price: 501.303 | Quantity: 17
+[ORDER] BUY | Company: Tencent Holdings Ltd. (0700.HK) | Price: 922.99 | Quantity: 47
+[ORDER] SELL | Company: Visa Inc. (V) | Price: 757.479 | Quantity: 29
+[ORDER] BUY | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 380.309 | Quantity: 35
+[ORDER] BUY | Company: Bank of Montreal (BMO.TO) | Price: 838.132 | Quantity: 35
+[MATCH] Company: Bank of Montreal (BMO.TO) | Matching Buy @838.132 with Sell @13.7821 | Quantity: 14
+[ORDER] SELL | Company: Siemens AG (SIE.DE) | Price: 731.111 | Quantity: 8
+[TRADE] Company: Bank of Montreal (BMO.TO) | Buy @838.132 | Sell @13.7821 | Quantity: 14
+[ORDER] BUY | Company: Unilever plc (ULVR.L) | Price: 424.938 | Quantity: 46
+[ORDER] SELL | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 767.097 | Quantity: 1
+[ORDER] BUY | Company: Johnson & Johnson (JNJ) | Price: 595.893 | Quantity: 31
+[ORDER] SELL | Company: Walmart Inc. (WMT) | Price: 30.0244 | Quantity: 33
+[ORDER] SELL | Company: CSL Ltd. (CSL.AX) | Price: 808.895 | Quantity: 37
+[MATCH] Company: CSL Ltd. (CSL.AX) | Matching Buy @974.968 with Sell @808.895 | Quantity: 1
+[TRADE] Company: CSL Ltd. (CSL.AX) | Buy @974.968 | Sell @808.895 | Quantity: 1
+[ORDER] SELL | Company: Air Canada (AC.TO) | Price: 615.365 | Quantity: 6
+[ORDER] SELL | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 663.734 | Quantity: 46
+[ORDER] BUY | Company: Royal Bank of Canada (RY.TO) | Price: 604.001 | Quantity: 12
+[ORDER] SELL | Company: Apple Inc. (AAPL) | Price: 468.178 | Quantity: 36
+[ORDER] SELL | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 341.163 | Quantity: 17
+[ORDER] SELL | Company: JPMorgan Chase & Co. (JPM) | Price: 997.322 | Quantity: 17
+[ORDER] BUY | Company: UnitedHealth Group Inc. (UNH) | Price: 855.102 | Quantity: 4
+[ORDER] SELL | Company: NVIDIA Corp. (NVDA) | Price: 728.397 | Quantity: 43
+[ORDER] SELL | Company: Royal Bank of Canada (RY.TO) | Price: 562.261 | Quantity: 25
+[ORDER] BUY | Company: SoftBank Group Corp. (9984.T) | Price: 277.838 | Quantity: 16
+[ORDER] SELL | Company: Shopify Inc. (SHOP.TO) | Price: 522.581 | Quantity: 4
+[ORDER] SELL | Company: Toyota Motor Corp. (7203.T) | Price: 505.481 | Quantity: 39
+[ORDER] SELL | Company: Visa Inc. (V) | Price: 621.653 | Quantity: 31
+[ORDER] SELL | Company: CSL Ltd. (CSL.AX) | Price: 490.564 | Quantity: 41
+[ORDER] SELL | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 970.22 | Quantity: 38
+[ORDER] BUY | Company: Siemens AG (SIE.DE) | Price: 127.757 | Quantity: 14
+[ORDER] SELL | Company: SAP SE (SAP.DE) | Price: 698.805 | Quantity: 23
+[ORDER] SELL | Company: Bank of Montreal (BMO.TO) | Price: 105.279 | Quantity: 46
+[ORDER] SELL | Company: HSBC Holdings plc (HSBA.L) | Price: 163.801 | Quantity: 46
+[ORDER] BUY | Company: Toyota Motor Corp. (7203.T) | Price: 837.68 | Quantity: 27
+[ORDER] SELL | Company: Visa Inc. (V) | Price: 587.54 | Quantity: 15
+[MATCH] Company: Visa Inc. (V) | Matching Buy @766.068 with Sell @587.54 | Quantity: 15
+[TRADE] Company: Visa Inc. (V) | Buy @766.068 | Sell @587.54 | Quantity: 15
+[ORDER] SELL | Company: Sony Corporation (6758.T) | Price: 427.14 | Quantity: 44
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 276.882 | Quantity: 24
+[ORDER] SELL | Company: Canadian National Railway Co. (CNR.TO) | Price: 435.747 | Quantity: 7
+[ORDER] BUY | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 303.329 | Quantity: 50
+[ORDER] BUY | Company: JPMorgan Chase & Co. (JPM) | Price: 473.349 | Quantity: 15
+[ORDER] BUY | Company: Apple Inc. (AAPL) | Price: 802.717 | Quantity: 38
+[ORDER] BUY | Company: Procter & Gamble Co. (PG) | Price: 545.821 | Quantity: 17
+[ORDER] BUY | Company: Royal Bank of Canada (RY.TO) | Price: 273.903 | Quantity: 29
+[ORDER] SELL | Company: Meta Platforms Inc. (META) | Price: 584.158 | Quantity: 7
+[ORDER] SELL | Company: BP plc (BP.L) | Price: 467.053 | Quantity: 12
+[ORDER] SELL | Company: Roche Holding AG (ROG.SW) | Price: 452.746 | Quantity: 24
+[ORDER] BUY | Company: Visa Inc. (V) | Price: 258.744 | Quantity: 33
+[ORDER] BUY | Company: BP plc (BP.L) | Price: 208.785 | Quantity: 4
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 523.557 | Quantity: 48
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 523.557 | Quantity: 48
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 998.006 | Quantity: 33
+[ORDER] SELL | Company: Procter & Gamble Co. (PG) | Price: 90.4413 | Quantity: 30
+[ORDER] SELL | Company: SoftBank Group Corp. (9984.T) | Price: 992.771 | Quantity: 14
+[ORDER] BUY | Company: Amazon.com Inc. (AMZN) | Price: 441.269 | Quantity: 15
+[ORDER] SELL | Company: UnitedHealth Group Inc. (UNH) | Price: 627.705 | Quantity: 31
+[MATCH] Company: UnitedHealth Group Inc. (UNH) | Matching Buy @984.131 with Sell @627.705 | Quantity: 5
+[TRADE] Company: UnitedHealth Group Inc. (UNH) | Buy @984.131 | Sell @627.705 | Quantity: 5
+[ORDER] SELL | Company: Toyota Motor Corp. (7203.T) | Price: 773.976 | Quantity: 20
+[ORDER] BUY | Company: Tencent Holdings Ltd. (0700.HK) | Price: 31.2709 | Quantity: 37
+690.851 | Quantity: 4
+[ORDER] BUY | Company: Meta Platforms Inc. (META) | Price: 42.2419 | Quantity: 5
+[ORDER] SELL | Company: CSL Ltd. (CSL.AX) | Price: 920.317 | Quantity: 41
+48.749 | Quantity: 20
+[ORDER] SELL | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 170.519 | Quantity: 48
+[MATCH] Company: Reliance Industries Ltd. (RELIANCE.NS) | Matching Buy @621.827 with Sell @170.519 | Quantity: 14
+[TRADE] Company: Reliance Industries Ltd. (RELIANCE.NS) | Buy @621.827 | Sell @170.519 | Quantity: 14
+[ORDER] BUY | Company: BP plc (BP.L) | Price: 121.64 | Quantity: 33
+[ORDER] BUY | Company: TotalEnergies SE (TTE.PA) | Price: 196.172 | Quantity: 1
+[ORDER] BUY | Company: Air Canada (AC.TO) | Price: 458.054 | Quantity: 20
+[ORDER] SELL | Company: Infosys Ltd. (INFY.NS) | Price: 973.003 | Quantity: 40
+[ORDER] SELL | Company: UnitedHealth Group Inc. (UNH) | Price: 867.572 | Quantity: 38
+[ORDER] BUY | Company: Air Canada (AC.TO) | Price: 482.437 | Quantity: 49
+[ORDER] SELL | Company: CSL Ltd. (CSL.AX) | Price: 976.411 | Quantity: 4
+[ORDER] SELL | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 186.302 | Quantity: 14
+[ORDER] SELL | Company: Roche Holding AG (ROG.SW) | Price: 88.6127 | Quantity: 28
+[ORDER] SELL | Company: Tesla Inc. (TSLA) | Price: 116.685 | Quantity: 13
+[ORDER] SELL | Company: TotalEnergies SE (TTE.PA) | Price: 638.258 | Quantity: 29
+[ORDER] SELL | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 799.603 | Quantity: 13
+[ORDER] BUY | Company: Siemens AG (SIE.DE) | Price: 593.573 | Quantity: 38
+[MATCH] Company: Siemens AG (SIE.DE) | Matching Buy @593.573 with Sell @180.089 | Quantity: 38
+[TRADE] Company: Siemens AG (SIE.DE) | Buy @593.573 | Sell @180.089 | Quantity: 38
+[ORDER] BUY | Company: Procter & Gamble Co. (PG) | Price: 142.143 | Quantity: 35
+[ORDER] BUY | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 637.191 | Quantity: 3
+[ORDER] BUY | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 637.191 | Quantity: 3
+[ORDER] SELL | Company: Alphabet Inc. (GOOGL) | Price: 377.203 | Quantity: 49
+[ORDER] SELL | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 379.277 | Quantity: 32
+[ORDER] BUY | Company: UnitedHealth Group Inc. (UNH) | Price: 948.227 | Quantity: 7
+[ORDER] BUY | Company: Alphabet Inc. (GOOGL) | Price: 288.855 | Quantity: 13
+[ORDER] BUY | Company: Bank of Montreal (BMO.TO) | Price: 736.295 | Quantity: 10
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 343.451 | Quantity: 3
+[ORDER] BUY | Company: Samsung Electronics (005930.KQ) | Price: 915.769 | Quantity: 8
+[ORDER] BUY | Company: Exxon Mobil Corp. (XOM) | Price: 235.674 | Quantity: 49
+[ORDER] SELL | Company: SAP SE (SAP.DE) | Price: 755.646 | Quantity: 4
+[ORDER] BUY | Company: Siemens AG (SIE.DE) | Price: 348.477 | Quantity: 15
+[ORDER] BUY | Company: Air Canada (AC.TO) | Price: 428.833 | Quantity: 38
+[ORDER] BUY | Company: Air Canada (AC.TO) | Price: 908.707 | Quantity: 10
+[ORDER] BUY | Company: BHP Group Ltd. (BHP.AX) | Price: 968.768 | Quantity: 46
+[ORDER] SELL | Company: Alphabet Inc. (GOOGL) | Price: 897.649 | Quantity: 27
+[ORDER] BUY | Company: Sony Group Corp. (6758.T) | Price: 644.235 | Quantity: 29
+[ORDER] SELL | Company: Sony Group Corp. (6758.T) | Price: 477.481 | Quantity: 28
+[ORDER] BUY | Company: BHP Group Ltd. (BHP.AX) | Price: 625.607 | Quantity: 42
+[ORDER] BUY | Company: NVIDIA Corp. (NVDA) | Price: 368.991 | Quantity: 40
+[ORDER] BUY | Company: NVIDIA Corp. (NVDA) | Price: 6.48779 | Quantity: 21
+[ORDER] BUY | Company: Toronto-Dominion Bank (TD.TO) | Price: 621.705 | Quantity: 11
+[ORDER] SELL | Company: Bank of Montreal (BMO.TO) | Price: 775.809 | Quantity: 40
+[ORDER] SELL | Company: Shopify Inc. (SHOP.TO) | Price: 790.77 | Quantity: 13
+[ORDER] BUY | Company: Meta Platforms Inc. (META) | Price: 106.006 | Quantity: 30
+[ORDER] BUY | Company: Alphabet Inc. (GOOGL) | Price: 680.092 | Quantity: 36
+[ORDER] BUY | Company: Air Canada (AC.TO) | Price: 594.895 | Quantity: 49
+[ORDER] SELL | Company: TotalEnergies SE (TTE.PA) | Price: 953.527 | Quantity: 37
+[ORDER] SELL | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 169.215 | Quantity: 22
+[ORDER] SELL | Company: Shell plc (SHEL.L) | Price: 770.862 | Quantity: 1
+[ORDER] SELL | Company: Shell plc (SHEL.L) | Price: 770.862 | Quantity: 1
+[ORDER] SELL | Company: Nestlé S.A. (NESN.SW) | Price: 945.68 | Quantity: 13
+[ORDER] BUY | Company: Tencent Holdings Ltd. (0700.HK) | Price: 593.978 | Quantity: 50
+[MATCH] Company: Tencent Holdings Ltd. (0700.HK) | Matching Buy @593.978 with Sell @397.333 | Quantity: 12
+[TRADE] Company: Tencent Holdings Ltd. (0700.HK) | Buy @593.978 | Sell @397.333 | Quantity: 12
+[ORDER] BUY | Company: Royal Bank of Canada (RY.TO) | Price: 32.3997 | Quantity: 50
+[ORDER] BUY | Company: Unilever plc (ULVR.L) | Price: 578.829 | Quantity: 7
+[ORDER] SELL | Company: Air Canada (AC.TO) | Price: 279.639 | Quantity: 9
+[ORDER] BUY | Company: Bank of Montreal (BMO.TO) | Price: 373.342 | Quantity: 27
+[MATCH] Company: Bank of Montreal (BMO.TO) | Matching Buy @373.342 with Sell @105.279 | Quantity: 27
+[TRADE] Company: Bank of Montreal (BMO.TO) | Buy @373.342 | Sell @105.279 | Quantity: 27
+[ORDER] BUY | Company: CSL Ltd. (CSL.AX) | Price: 782.414 | Quantity: 34
+[ORDER] BUY | Company: UnitedHealth Group Inc. (UNH) | Price: 930.457 | Quantity: 32
+[ORDER] SELL | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 851.008 | Quantity: 2
+[ORDER] SELL | Company: NVIDIA Corp. (NVDA) | Price: 764.631 | Quantity: 18
+[ORDER] SELL | Company: Shell plc (SHEL.L) | Price: 576.141 | Quantity: 1
+[ORDER] BUY | Company: Sony Corporation (6758.T) | Price: 588.334 | Quantity: 2
+[ORDER] SELL | Company: Samsung Electronics (005930.KQ) | Price: 42.9108 | Quantity: 43
+[ORDER] SELL | Company: Samsung Electronics (005930.KQ) | Price: 42.9108 | Quantity: 43
+[MATCH] Company: Sony Corporation (6758.T) | Matching Buy @588.334 with Sell @433.047 | Quantity: 2
+[TRADE] Company: Sony Corporation (6758.T) | Buy @588.334 | Sell @433.047 | Quantity: 2
+[ORDER] SELL | Company: HSBC Holdings plc (HSBA.L) | Price: 880.628 | Quantity: 37
+[ORDER] SELL | Company: HSBC Holdings plc (HSBA.L) | Price: 880.628 | Quantity: 37
+[MATCH] Company: Samsung Electronics (005930.KQ) | Matching Buy @306.573 with Sell @42.9108 | Quantity: 20
+[TRADE] Company: Samsung Electronics (005930.KQ) | Buy @306.573 | Sell @42.9108 | Quantity: 20
+[ORDER] BUY | Company: Siemens AG (SIE.DE) | Price: 909.8 | Quantity: 30
+[ORDER] BUY | Company: Sony Corporation (6758.T) | Price: 791.861 | Quantity: 34
+[ORDER] SELL | Company: Shell plc (SHEL.L) | Price: 694.611 | Quantity: 6
+[ORDER] BUY | Company: Walmart Inc. (WMT) | Price: 649.512 | Quantity: 39
+[ORDER] BUY | Company: Unilever plc (ULVR.L) | Price: 800.754 | Quantity: 9
+[ORDER] SELL | Company: Volkswagen AG (VOW.DE) | Price: 959.131 | Quantity: 45
+[ORDER] BUY | Company: Volkswagen AG (VOW.DE) | Price: 143.086 | Quantity: 33
+[ORDER] SELL | Company: Walmart Inc. (WMT) | Price: 524.547 | Quantity: 31
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 249.23 | Quantity: 24
+[ORDER] SELL | Company: Canadian National Railway Co. (CNR.TO) | Price: 717.61 | Quantity: 1
+[ORDER] BUY | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 75.956 | Quantity: 33
+[ORDER] BUY | Company: JPMorgan Chase & Co. (JPM) | Price: 944.855 | Quantity: 38
+[MATCH] Company: JPMorgan Chase & Co. (JPM) | Matching Buy @944.855 with Sell @521.676 | Quantity: 19
+[TRADE] Company: JPMorgan Chase & Co. (JPM) | Buy @944.855 | Sell @521.676 | Quantity: 19
+[ORDER] SELL | Company: NVIDIA Corp. (NVDA) | Price: 97.5865 | Quantity: 15
+[ORDER] SELL | Company: Shell plc (SHEL.L) | Price: 252.591 | Quantity: 1
+[ORDER] SELL | Company: Volkswagen AG (VOW.DE) | Price: 904.687 | Quantity: 6
+[ORDER] BUY | Company: Sony Group Corp. (6758.T) | Price: 360.86 | Quantity: 46
+[ORDER] SELL | Company: UnitedHealth Group Inc. (UNH) | Price: 7.70217 | Quantity: 12
+[MATCH] Company: UnitedHealth Group Inc. (UNH) | Matching Buy @855.102 with Sell @7.70217 | Quantity: 4
+[TRADE] Company: UnitedHealth Group Inc. (UNH) | Buy @855.102 | Sell @7.70217 | Quantity: 4
+[ORDER] BUY | Company: BP plc (BP.L) | Price: 433.279 | Quantity: 46
+[ORDER] SELL | Company: Microsoft Corp. (MSFT) | Price: 333.175 | Quantity: 18
+[ORDER] SELL | Company: JPMorgan Chase & Co. (JPM) | Price: 503.453 | Quantity: 2
+[ORDER] SELL | Company: Alphabet Inc. (GOOGL) | Price: 857.248 | Quantity: 32
+[ORDER] BUY | Company: Siemens AG (SIE.DE) | Price: 588.927 | Quantity: 19
+[ORDER] BUY | Company: NVIDIA Corp. (NVDA) | Price: 9.26992 | Quantity: 29
+[ORDER] BUY | Company: NVIDIA Corp. (NVDA) | Price: 9.26992 | Quantity: 29
+[ORDER] BUY | Company: Tencent Holdings Ltd. (0700.HK) | Price: 16.8623 | Quantity: 30
+[ORDER] SELL | Company: Nestlé S.A. (NESN.SW) | Price: 835.189 | Quantity: 10
+[ORDER] BUY | Company: BP plc (BP.L) | Price: 220.628 | Quantity: 43
+[ORDER] BUY | Company: Walmart Inc. (WMT) | Price: 856.404 | Quantity: 5
+[ORDER] SELL | Company: TotalEnergies SE (TTE.PA) | Price: 2.86082 | Quantity: 50
+[MATCH] Company: TotalEnergies SE (TTE.PA) | Matching Buy @804.014 with Sell @2.86082 | Quantity: 17
+[TRADE] Company: TotalEnergies SE (TTE.PA) | Buy @804.014 | Sell @2.86082 | Quantity: 17
+[ORDER] BUY | Company: Alphabet Inc. (GOOGL) | Price: 517.807 | Quantity: 44
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 972.276 | Quantity: 29
+[ORDER] SELL | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 34.4173 | Quantity: 23
+[ORDER] BUY | Company: Unilever plc (ULVR.L) | Price: 542.758 | Quantity: 44
+[ORDER] SELL | Company: UnitedHealth Group Inc. (UNH) | Price: 64.2542 | Quantity: 24
+[ORDER] SELL | Company: TotalEnergies SE (TTE.PA) | Price: 817.65 | Quantity: 21
+[ORDER] BUY | Company: Amazon.com Inc. (AMZN) | Price: 552.762 | Quantity: 33
+[ORDER] SELL | Company: CSL Ltd. (CSL.AX) | Price: 343.325 | Quantity: 15
+[ORDER] BUY | Company: Amazon.com Inc. (AMZN) | Price: 194.533 | Quantity: 17
+[ORDER] SELL | Company: Royal Bank of Canada (RY.TO) | Price: 35.7932 | Quantity: 3
+[ORDER] BUY | Company: Alphabet Inc. (GOOGL) | Price: 269.066 | Quantity: 13
+[ORDER] BUY | Company: Apple Inc. (AAPL) | Price: 251.455 | Quantity: 17
+[ORDER] SELL | Company: Shopify Inc. (SHOP.TO) | Price: 56.393 | Quantity: 27
+[ORDER] BUY | Company: Siemens AG (SIE.DE) | Price: 64.0728 | Quantity: 47
+[ORDER] SELL | Company: TotalEnergies SE (TTE.PA) | Price: 733.461 | Quantity: 6
+[ORDER] BUY | Company: Bank of Montreal (BMO.TO) | Price: 20.3229 | Quantity: 29
+[ORDER] SELL | Company: Procter & Gamble Co. (PG) | Price: 361.616 | Quantity: 26
+[ORDER] SELL | Company: Shopify Inc. (SHOP.TO) | Price: 442.872 | Quantity: 42
+[ORDER] BUY | Company: Infosys Ltd. (INFY.NS) | Price: 445.732 | Quantity: 15
+[ORDER] SELL | Company: Air Canada (AC.TO) | Price: 299.182 | Quantity: 42
+[ORDER] BUY | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 903.001 | Quantity: 7
+[MATCH] Company: Air Canada (AC.TO) | Matching Buy @332.019 with Sell @299.182 | Quantity: 32
+[TRADE] Company: Air Canada (AC.TO) | Buy @332.019 | Sell @299.182 | Quantity: 32
+[ORDER] BUY | Company: CSL Ltd. (CSL.AX) | Price: 888.66 | Quantity: 13
+[ORDER] BUY | Company: UnitedHealth Group Inc. (UNH) | Price: 549.975 | Quantity: 9
+[ORDER] BUY | Company: UnitedHealth Group Inc. (UNH) | Price: 549.975 | Quantity: 9
+[ORDER] BUY | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 603.189 | Quantity: 44
+[ORDER] BUY | Company: UnitedHealth Group Inc. (UNH) | Price: 549.975 | Quantity: 9
+[ORDER] BUY | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 603.189 | Quantity: 44
+[ORDER] SELL | Company: Air Canada (AC.TO) | Price: 212.408 | Quantity: 13
+[MATCH] Company: Alibaba Group Holding Ltd. (9988.HK) | Matching Buy @603.189 with Sell @495.53 | Quantity: 2
+[TRADE] Company: Alibaba Group Holding Ltd. (9988.HK) | Buy @603.189 | Sell @495.53 | Quantity: 2
+[ORDER] BUY | Company: Visa Inc. (V) | Price: 930.413 | Quantity: 40
+[ORDER] BUY | Company: Samsung Electronics (005930.KQ) | Price: 504.009 | Quantity: 14
+[ORDER] BUY | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 41.3687 | Quantity: 25
+[ORDER] SELL | Company: Meta Platforms Inc. (META) | Price: 695.84 | Quantity: 44
+[ORDER] BUY | Company: Sony Corporation (6758.T) | Price: 576.017 | Quantity: 47
+[ORDER] SELL | Company: BHP Group Ltd. (BHP.AX) | Price: 837.264 | Quantity: 41
+[ORDER] BUY | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 210.487 | Quantity: 10
+[ORDER] SELL | Company: Toyota Motor Corp. (7203.T) | Price: 870.596 | Quantity: 32
+[ORDER] BUY | Company: NVIDIA Corp. (NVDA) | Price: 800.296 | Quantity: 28
+[MATCH] Company: NVIDIA Corp. (NVDA) | Matching Buy @800.296 with Sell @563.489 | Quantity: 28
+[TRADE] Company: NVIDIA Corp. (NVDA) | Buy @800.296 | Sell @563.489 | Quantity: 28
+[ORDER] SELL | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 212.258 | Quantity: 50
+[ORDER] BUY | Company: Tata Consultancy Services (TCS.NS) | Price: 164.335 | Quantity: 35
+[ORDER] BUY | Company: Alphabet Inc. (GOOGL) | Price: 103.877 | Quantity: 1
+[ORDER] BUY | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 978.487 | Quantity: 35
+[ORDER] SELL | Company: Shell plc (SHEL.L) | Price: 471.3 | Quantity: 23
+[ORDER] SELL | Company: Toronto-Dominion Bank (TD.TO) | Price: 464.302 | Quantity: 18
+[ORDER] BUY | Company: JPMorgan Chase & Co. (JPM) | Price: 516.134 | Quantity: 29
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 103.633 | Quantity: 37
+[ORDER] SELL | Company: NVIDIA Corp. (NVDA) | Price: 407.77 | Quantity: 34
+[ORDER] BUY | Company: Apple Inc. (AAPL) | Price: 947.139 | Quantity: 44
+[ORDER] BUY | Company: Infosys Ltd. (INFY.NS) | Price: 686.055 | Quantity: 3
+[MATCH] Company: Infosys Ltd. (INFY.NS) | Matching Buy @686.055 with Sell @173.738 | Quantity: 3
+[TRADE] Company: Infosys Ltd. (INFY.NS) | Buy @686.055 | Sell @173.738 | Quantity: 3
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 489.055 | Quantity: 21
+[ORDER] BUY | Company: Toyota Motor Corp. (7203.T) | Price: 22.0416 | Quantity: 11
+[ORDER] SELL | Company: Samsung Electronics (005930.KQ) | Price: 662.099 | Quantity: 10
+[ORDER] SELL | Company: Johnson & Johnson (JNJ) | Price: 296.979 | Quantity: 19
+[ORDER] SELL | Company: Exxon Mobil Corp. (XOM) | Price: 635.716 | Quantity: 46
+[ORDER] SELL | Company: HSBC Holdings plc (HSBA.L) | Price: 822.285 | Quantity: 45
+[ORDER] BUY | Company: Tata Consultancy Services (TCS.NS) | Price: 888.591 | Quantity: 15
+[ORDER] SELL | Company: Samsung Electronics (005930.KQ) | Price: 596.391 | Quantity: 2
+[ORDER] SELL | Company: Volkswagen AG (VOW.DE) | Price: 76.2859 | Quantity: 35
+[ORDER] SELL | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 239.076 | Quantity: 18
+[ORDER] BUY | Company: Rio Tinto Ltd. (RIO.AX) | Price: 385.81 | Quantity: 10
+[ORDER] SELL | Company: HSBC Holdings plc (HSBA.L) | Price: 828.255 | Quantity: 50
+[ORDER] BUY | Company: UnitedHealth Group Inc. (UNH) | Price: 67.9529 | Quantity: 30
+[ORDER] SELL | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 708.432 | Quantity: 33
+[ORDER] BUY | Company: Shopify Inc. (SHOP.TO) | Price: 155.313 | Quantity: 42
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 720.036 | Quantity: 8
+[ORDER] BUY | Company: SAP SE (SAP.DE) | Price: 904.53 | Quantity: 38
+[ORDER] BUY | Company: Sony Corporation (6758.T) | Price: 934.682 | Quantity: 33
+[ORDER] BUY | Company: Bank of Montreal (BMO.TO) | Price: 492.925 | Quantity: 49
+[ORDER] SELL | Company: Visa Inc. (V) | Price: 709.723 | Quantity: 23
+[ORDER] SELL | Company: Amazon.com Inc. (AMZN) | Price: 650.534 | Quantity: 18
+[ORDER] SELL | Company: Sony Corporation (6758.T) | Price: 856.5 | Quantity: 50
+[ORDER] SELL | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 758.996 | Quantity: 42
+[MATCH] Company: Sony Corporation (6758.T) | Matching Buy @934.682 with Sell @856.5 | Quantity: 33
+[MATCH] Company: ICICI Bank Ltd. (ICICIBANK.NS) | Matching Buy @866.098 with Sell @758.996 | Quantity: 42
+[TRADE] Company: ICICI Bank Ltd. (ICICIBANK.NS) | Buy @866.098 | Sell @758.996 | Quantity: 42
+[TRADE] Company: Sony Corporation (6758.T) | Buy @934.682 | Sell @856.5 | Quantity: 33
+[ORDER] BUY | Company: Toyota Motor Corp. (7203.T) | Price: 395.899 | Quantity: 17
+[ORDER] SELL | Company: HSBC Holdings plc (HSBA.L) | Price: 966.844 | Quantity: 19
+[ORDER] BUY | Company: Toronto-Dominion Bank (TD.TO) | Price: 122.675 | Quantity: 30
+[ORDER] BUY | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 220.159 | Quantity: 40
+[ORDER] BUY | Company: Air Canada (AC.TO) | Price: 352.223 | Quantity: 9
+[ORDER] SELL | Company: BP plc (BP.L) | Price: 105.66 | Quantity: 42
+[ORDER] BUY | Company: Toronto-Dominion Bank (TD.TO) | Price: 75.9404 | Quantity: 45
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 212.329 | Quantity: 4
+[ORDER] SELL | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 460.857 | Quantity: 12
+[ORDER] BUY | Company: JPMorgan Chase & Co. (JPM) | Price: 842.912 | Quantity: 37
+[MATCH] Company: JPMorgan Chase & Co. (JPM) | Matching Buy @842.912 with Sell @232.999 | Quantity: 22
+[TRADE] Company: JPMorgan Chase & Co. (JPM) | Buy @842.912 | Sell @232.999 | Quantity: 22
+[ORDER] SELL | Company: Sony Group Corp. (6758.T) | Price: 930.927 | Quantity: 1
+[ORDER] BUY | Company: Walmart Inc. (WMT) | Price: 5.50439 | Quantity: 5
+[ORDER] BUY | Company: TotalEnergies SE (TTE.PA) | Price: 82.6155 | Quantity: 14
+[ORDER] BUY | Company: Exxon Mobil Corp. (XOM) | Price: 3.1202 | Quantity: 44
+[ORDER] SELL | Company: TotalEnergies SE (TTE.PA) | Price: 7.69755 | Quantity: 35
+[ORDER] BUY | Company: Tesla Inc. (TSLA) | Price: 958.397 | Quantity: 10
+[MATCH] Company: Tesla Inc. (TSLA) | Matching Buy @958.397 with Sell @74.4401 | Quantity: 10
+[TRADE] Company: Tesla Inc. (TSLA) | Buy @958.397 | Sell @74.4401 | Quantity: 10
+[ORDER] SELL | Company: Visa Inc. (V) | Price: 899.24 | Quantity: 39
+[ORDER] BUY | Company: SAP SE (SAP.DE) | Price: 429.852 | Quantity: 45
+[ORDER] BUY | Company: SAP SE (SAP.DE) | Price: 980.527 | Quantity: 17
+[MATCH] Company: SAP SE (SAP.DE) | Matching Buy @980.527 with Sell @271.412 | Quantity: 4
+[TRADE] Company: SAP SE (SAP.DE) | Buy @980.527 | Sell @271.412 | Quantity: 4
+[ORDER] BUY | Company: Volkswagen AG (VOW.DE) | Price: 369.628 | Quantity: 37
+[MATCH] Company: Volkswagen AG (VOW.DE) | Matching Buy @369.628 with Sell @367.258 | Quantity: 25
+[TRADE] Company: Volkswagen AG (VOW.DE) | Buy @369.628 | Sell @367.258 | Quantity: 25
+[ORDER] SELL | Company: Air Canada (AC.TO) | Price: 854.653 | Quantity: 3
+[ORDER] BUY | Company: SAP SE (SAP.DE) | Price: 857.716 | Quantity: 41
+[MATCH] Company: SAP SE (SAP.DE) | Matching Buy @857.716 with Sell @690.851 | Quantity: 4
+[TRADE] Company: SAP SE (SAP.DE) | Buy @857.716 | Sell @690.851 | Quantity: 4
+[ORDER] SELL | Company: Bank of Montreal (BMO.TO) | Price: 935.734 | Quantity: 11
+[ORDER] SELL | Company: Shell plc (SHEL.L) | Price: 400.974 | Quantity: 17
+[ORDER] SELL | Company: UnitedHealth Group Inc. (UNH) | Price: 5.41213 | Quantity: 41
+[ORDER] SELL | Company: Roche Holding AG (ROG.SW) | Price: ce: 5.41BUY | Company: 741.796Shopify Inc. (SHOP.TO)aba Group Hol | Price: 25
+[ORDER] SELL | Company: Roche Holding AG (ROG.SW) | Price: ce: 5.41BUY | Company: 741.796Shopify Inc. (SHOP.TO)aba Group Hol | Price: 25
+606.066 | Quantity: 31
+[ORDER] SELL | Company: Roche Holding AG (ROG.SW) | Price: ce: 5.41BUY | Company: 741.796Shopify Inc. (SHOP.TO)aba Group Hol | Price: 25
+606.066 | Quantity: 31
+[ORDER] BUY | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 675.562 | Quantity: 40
+[ORDER] SELL | Company: Roche Holding AG (ROG.SW) | Price: ce: 5.41BUY | Company: 741.796Shopify Inc. (SHOP.TO)aba Group Hol | Price: 25
+606.066 | Quantity: 31
+[ORDER] BUY | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 675.562 | Quantity: 40
+[ORDER] BUY | Company: Alphabet Inc. (GOOGL) | Price: 817.628 | Quantity: 42
+[MATCH] Company: Shopify Inc. (SHOP.TO) | Matching Buy @606.066 with Sell @522.581 | Quantity: 4
+[TRADE] Company: Shopify Inc. (SHOP.TO) | Buy @606.066 | Sell @522.581 | Quantity: 4
+[MATCH] Company: Alphabet Inc. (GOOGL) | Matching Buy @817.628 with Sell @77.5495 | Quantity: 21
+[TRADE] Company: Alphabet Inc. (GOOGL) | Buy @817.628 | Sell @77.5495 | Quantity: 21
+[TRADE] Company: Alphabet Inc. (GOOGL) | Buy @817.628 | Sell @77.5495 | Quantity: 21
+[MATCH] Company: Reliance Industries Ltd. (RELIANCE.NS) | Matching Buy @675.562 with Sell @379.277 | Quantity: 32
+[TRADE] Company: Reliance Industries Ltd. (RELIANCE.NS) | Buy @675.562 | Sell @379.277 | Quantity: 32
+[ORDER] BUY | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 271.863 | Quantity: 43
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 410.093 | Quantity: 18
+[ORDER] SELL | Company: Nestlé S.A. (NESN.SW) | Price: 972.053 | Quantity: 46
+[ORDER] BUY | Company: Walmart Inc. (WMT) | Price: 489.475 | Quantity: 27
+[ORDER] SELL | Company: Roche Holding AG (ROG.SW) | Price: 567.449 | Quantity: 10
+[ORDER] SELL | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 219.039 | Quantity: 47
+[ORDER] BUY | Company: Nestlé S.A. (NESN.SW) | Price: 548.843 | Quantity: 29
+[ORDER] BUY | Company: Sony Group Corp. (6758.T) | Price: 582.89 | Quantity: 43
+[ORDER] BUY | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 461.594 | Quantity: 46
+[ORDER] SELL | Company: Johnson & Johnson (JNJ) | Price: 497.674 | Quantity: 35
+[ORDER] SELL | Company: Royal Bank of Canada (RY.TO) | Price: 232.886 | Quantity: 24
+[ORDER] SELL | Company: Rio Tinto Ltd. (RIO.AX) | Price: 295.96 | Quantity: 1
+[MATCH] Company: Rio Tinto Ltd. (RIO.AX) | Matching Buy @385.81 with Sell @295.96 | Quantity: 1
+[TRADE] Company: Rio Tinto Ltd. (RIO.AX) | Buy @385.81 | Sell @295.96 | Quantity: 1
+[ORDER] BUY | Company: Alphabet Inc. (GOOGL) | Price: 545.706 | Quantity: 6
+[ORDER] SELL | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 918.997 | Quantity: 25
+[ORDER] SELL | Company: Sony Corporation (6758.T) | Price: 413.042 | Quantity: 17
+[MATCH] Company: Sony Corporation (6758.T) | Matching Buy @791.861 with Sell @413.042 | Quantity: 17
+[TRADE] Company: Sony Corporation (6758.T) | Buy @791.861 | Sell @413.042 | Quantity: 17
+[ORDER] BUY | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 483.566 | Quantity: 47
+[ORDER] BUY | Company: Tencent Holdings Ltd. (0700.HK) | Price: 807.805 | Quantity: 23
+[ORDER] SELL | Company: Walmart Inc. (WMT) | Price: 242.011 | Quantity: 18
+[ORDER] SELL | Company: Shopify Inc. (SHOP.TO) | Price: 646.432 | Quantity: 13
+[ORDER] BUY | Company: Nestlé S.A. (NESN.SW) | Price: 272.438 | Quantity: 44
+[ORDER] SELL | Company: CSL Ltd. (CSL.AX) | Price: 249.347 | Quantity: 48
+[MATCH] Company: CSL Ltd. (CSL.AX) | Matching Buy @782.414 with Sell @249.347 | Quantity: 34
+[TRADE] Company: CSL Ltd. (CSL.AX) | Buy @782.414 | Sell @249.347 | Quantity: 34
+[ORDER] BUY | Company: Nestlé S.A. (NESN.SW) | Price: 668.056 | Quantity: 43
+[ORDER] BUY | Company: Walmart Inc. (WMT) | Price: 128.241 | Quantity: 30
+[ORDER] BUY | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 669.117 | Quantity: 47
+[ORDER] BUY | Company: Tata Consultancy Services (TCS.NS) | Price: 599.349 | Quantity: 1
+[ORDER] SELL | Company: Nestlé S.A. (NESN.SW) | Price: 535.781 | Quantity: 42
+[ORDER] SELL | Company: Nestlé S.A. (NESN.SW) | Price: 535.781 | Quantity: 42
+[ORDER] BUY | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 528.272 | Quantity: 11
+[MATCH] Company: Alibaba Group Holding Ltd. (9988.HK) | Matching Buy @528.272 with Sell @345.094 | Quantity: 11
+[TRADE] Company: Alibaba Group Holding Ltd. (9988.HK) | Buy @528.272 | Sell @345.094 | Quantity: 11
+[ORDER] SELL | Company: Air Canada (AC.TO) | Price: 325.677 | Quantity: 28
+[ORDER] SELL | Company: Microsoft Corp. (MSFT) | Price: 955.877 | Quantity: 18
+[ORDER] SELL | Company: Nestlé S.A. (NESN.SW) | Price: 418.706 | Quantity: 43
+[MATCH] Company: Nestlé S.A. (NESN.SW) | Matching Buy @740.846 with Sell @418.706 | Quantity: 13
+[TRADE] Company: Nestlé S.A. (NESN.SW) | Buy @740.846 | Sell @418.706 | Quantity: 13
+[ORDER] BUY | Company: Toronto-Dominion Bank (TD.TO) | Price: 948.29 | Quantity: 28
+[ORDER] SELL | Company: BHP Group Ltd. (BHP.AX) | Price: 46.8737 | Quantity: 37
+[ORDER] BUY | Company: Siemens AG (SIE.DE) | Price: 657.247 | Quantity: 38
+[ORDER] SELL | Company: Sony Group Corp. (6758.T) | Price: 637.157 | Quantity: 31
+[MATCH] Company: Sony Group Corp. (6758.T) | Matching Buy @747.87 with Sell @637.157 | Quantity: 20
+[TRADE] Company: Sony Group Corp. (6758.T) | Buy @747.87 | Sell @637.157 | Quantity: 20
+[ORDER] BUY | Company: Microsoft Corp. (MSFT) | Price: 566.675 | Quantity: 26
+[ORDER] SELL | Company: Roche Holding AG (ROG.SW) | Price: 559.859 | Quantity: 35
+[ORDER] SELL | Company: SoftBank Group Corp. (9984.T) | Price: 73.6701 | Quantity: 37
+[ORDER] BUY | Company: Apple Inc. (AAPL) | Price: 133.572 | Quantity: 2
+[ORDER] BUY | Company: Tencent Holdings Ltd. (0700.HK) | Price: 732.74 | Quantity: 46
+[ORDER] BUY | Company: Siemens AG (SIE.DE) | Price: 670.595 | Quantity: 41
+[ORDER] BUY | Company: BHP Group Ltd. (BHP.AX) | Price: 131.543 | Quantity: 47
+[ORDER] BUY | Company: Shopify Inc. (SHOP.TO) | Price: 103.011 | Quantity: 29
+[ORDER] SELL | Company: Alphabet Inc. (GOOGL) | Price: 986.408 | Quantity: 31
+[ORDER] SELL | Company: HSBC Holdings plc (HSBA.L) | Price: 48.0481 | Quantity: 16
+[ORDER] SELL | Company: Tesla Inc. (TSLA) | Price: 619.631 | Quantity: 50
+[ORDER] SELL | Company: Air Canada (AC.TO) | Price: 929.266 | Quantity: 1
+[ORDER] SELL | Company: Rio Tinto Ltd. (RIO.AX) | Price: 870.155 | Quantity: 27
+[ORDER] SELL | Company: Samsung Electronics (005930.KQ) | Price: 936.698 | Quantity: 36
+[ORDER] SELL | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 172.998 | Quantity: 8
+[MATCH] Company: Commonwealth Bank of Australia (CBA.AX) | Matching Buy @210.487 with Sell @172.998 | Quantity: 8
+[TRADE] Company: Commonwealth Bank of Australia (CBA.AX) | Buy @210.487 | Sell @172.998 | Quantity: 8
+[ORDER] SELL | Company: Sony Group Corp. (6758.T) | Price: 919.88 | Quantity: 40
+[ORDER] BUY | Company: Air Canada (AC.TO) | Price: 901.556 | Quantity: 50
+[ORDER] SELL | Company: SoftBank Group Corp. (9984.T) | Price: 882.99 | Quantity: 41
+[ORDER] SELL | Company: Toronto-Dominion Bank (TD.TO) | Price: 468.118 | Quantity: 10
+[MATCH] Company: Toronto-Dominion Bank (TD.TO) | Matching Buy @948.29 with Sell @468.118 | Quantity: 10
+[TRADE] Company: Toronto-Dominion Bank (TD.TO) | Buy @948.29 | Sell @468.118 | Quantity: 10
+[ORDER] BUY | Company: Infosys Ltd. (INFY.NS) | Price: 14.0844 | Quantity: 22
+[ORDER] BUY | Company: SoftBank Group Corp. (9984.T) | Price: 352.354 | Quantity: 2
+[ORDER] SELL | Company: Microsoft Corp. (MSFT) | Price: 124.758 | Quantity: 40
+[ORDER] SELL | Company: Toyota Motor Corp. (7203.T) | Price: 707.444 | Quantity: 3
+[ORDER] BUY | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 705.755 | Quantity: 41
+[ORDER] BUY | Company: JPMorgan Chase & Co. (JPM) | Price: 732.392 | Quantity: 11
+[ORDER] SELL | Company: Shopify Inc. (SHOP.TO) | Price: 193.422 | Quantity: 25
+[ORDER] BUY | Company: Shell plc (SHEL.L) | Price: 617.189 | Quantity: 39
+[ORDER] BUY | Company: BHP Group Ltd. (BHP.AX) | Price: 167.307 | Quantity: 49
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 198.588 | Quantity: 41
+[ORDER] SELL | Company: Unilever plc (ULVR.L) | Price: 239.214 | Quantity: 32
+[MATCH] Company: Unilever plc (ULVR.L) | Matching Buy @433.652 with Sell @239.214 | Quantity: 32
+[TRADE] Company: Unilever plc (ULVR.L) | Buy @433.652 | Sell @239.214 | Quantity: 32
+[ORDER] SELL | Company: Shell plc (SHEL.L) | Price: 244.056 | Quantity: 39
+[ORDER] SELL | Company: Air Canada (AC.TO) | Price: 736.735 | Quantity: 49
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 635.828 | Quantity: 19
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 635.828 | Quantity: 19
+[ORDER] SELL | Company: BHP Group Ltd. (BHP.AX) | Price: 851.557 | Quantity: 26
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 635.828 | Quantity: 19
+[ORDER] SELL | Company: BHP Group Ltd. (BHP.AX) | Price: 851.557 | Quantity: 26
+[ORDER] SELL | Company: Siemens AG (SIE.DE) | Price: 980.241 | Quantity: 40
+[MATCH] Company: Tata Consultancy Services (TCS.NS) | Matching Buy @888.591 with Sell @635.828 | Quantity: 15
+[TRADE] Company: Tata Consultancy Services (TCS.NS) | Buy @888.591 | Sell @635.828 | Quantity: 15
+[ORDER] SELL | Company: Shell plc (SHEL.L) | Price: 59.4771 | Quantity: 48
+[ORDER] SELL | Company: Royal Bank of Canada (RY.TO) | Price: 963.37 | Quantity: 2
+[ORDER] BUY | Company: SAP SE (SAP.DE) | Price: 797.145 | Quantity: 14
+[ORDER] BUY | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 156.271 | Quantity: 16
+[ORDER] SELL | Company: Procter & Gamble Co. (PG) | Price: 913.589 | Quantity: 13
+[ORDER] SELL | Company: UnitedHealth Group Inc. (UNH) | Price: 69.525 | Quantity: 20
+[ORDER] SELL | Company: Sony Group Corp. (6758.T) | Price: 731.705 | Quantity: 45
+[ORDER] SELL | Company: Bank of Montreal (BMO.TO) | Price: 701.8 | Quantity: 24
+[MATCH] Company: Bank of Montreal (BMO.TO) | Matching Buy @796.15 with Sell @701.8 | Quantity: 24
+[TRADE] Company: Bank of Montreal (BMO.TO) | Buy @796.15 | Sell @701.8 | Quantity: 24
+[ORDER] BUY | Company: Shell plc (SHEL.L) | Price: 434.166 | Quantity: 22
+[ORDER] SELL | Company: Infosys Ltd. (INFY.NS) | Price: 184.992 | Quantity: 41
+[ORDER] SELL | Company: Sony Group Corp. (6758.T) | Price: 557.992 | Quantity: 9
+[ORDER] SELL | Company: Visa Inc. (V) | Price: 864.216 | Quantity: 31
+[ORDER] SELL | Company: Visa Inc. (V) | Price: 864.216 | Quantity: 31
+[MATCH] Company: Infosys Ltd. (INFY.NS) | Matching Buy @675.261 with Sell @184.992 | Quantity: 5
+[TRADE] Company: Infosys Ltd. (INFY.NS) | Buy @675.261 | Sell @184.992 | Quantity: 5
+[ORDER] BUY | Company: Canadian National Railway Co. (CNR.TO) | Price: 355.882 | Quantity: 19
+[ORDER] SELL | Company: UnitedHealth Group Inc. (UNH) | Price: 585.534 | Quantity: 42
+[ORDER] BUY | Company: Alphabet Inc. (GOOGL) | Price: 490.59 | Quantity: 28
+[ORDER] SELL | Company: Meta Platforms Inc. (META) | Price: 203.061 | Quantity: 32
+[ORDER] SELL | Company: Alphabet Inc. (GOOGL) | Price: 803.607 | Quantity: 6
+[ORDER] SELL | Company: UnitedHealth Group Inc. (UNH) | Price: 479.939 | Quantity: 36
+[ORDER] BUY | Company: Apple Inc. (AAPL) | Price: 861.469 | Quantity: 42
+[ORDER] SELL | Company: Toyota Motor Corp. (7203.T) | Price: 441.129 | Quantity: 41
+[MATCH] Company: Toyota Motor Corp. (7203.T) | Matching Buy @493.612 with Sell @441.129 | Quantity: 41
+[TRADE] Company: Toyota Motor Corp. (7203.T) | Buy @493.612 | Sell @441.129 | Quantity: 41
+[ORDER] BUY | Company: Tencent Holdings Ltd. (0700.HK) | Price: 839.064 | Quantity: 34
+[ORDER] SELL | Company: HSBC Holdings plc (HSBA.L) | Price: 328.389 | Quantity: 31
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 440.303 | Quantity: 34
+[MATCH] Company: Tencent Holdings Ltd. (0700.HK) | Matching Buy @593.978 with Sell @440.303 | Quantity: 34
+[TRADE] Company: Tencent Holdings Ltd. (0700.HK) | Buy @593.978 | Sell @440.303 | Quantity: 34
+[ORDER] BUY | Company: Tencent Holdings Ltd. (0700.HK) | Price: 554.83 | Quantity: 28
+[ORDER] BUY | Company: Amazon.com Inc. (AMZN) | Price: 157.67 | Quantity: 24
+[ORDER] BUY | Company: Royal Bank of Canada (RY.TO) | Price: 867.2 | Quantity: 23
+[ORDER] SELL | Company: Meta Platforms Inc. (META) | Price: 65.303 | Quantity: 47
+[MATCH] Company: Meta Platforms Inc. (META) | Matching Buy @742.331 with Sell @65.303 | Quantity: 4
+[TRADE] Company: Meta Platforms Inc. (META) | Buy @742.331 | Sell @65.303 | Quantity: 4
+[ORDER] BUY | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 22.1792 | Quantity: 16
+[ORDER] SELL | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 417.45 | Quantity: 47
+[ORDER] BUY | Company: Exxon Mobil Corp. (XOM) | Price: 363.592 | Quantity: 34
+[ORDER] SELL | Company: SAP SE (SAP.DE) | Price: 577.39 | Quantity: 26
+[MATCH] Company: SAP SE (SAP.DE) | Matching Buy @904.53 with Sell @577.39 | Quantity: 26
+[TRADE] Company: SAP SE (SAP.DE) | Buy @904.53 | Sell @577.39 | Quantity: 26
+[ORDER] BUY | Company: Rio Tinto Ltd. (RIO.AX) | Price: 936.118 | Quantity: 24
+[ORDER] SELL | Company: UnitedHealth Group Inc. (UNH) | Price: 654.706 | Quantity: 11
+[ORDER] BUY | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 743.083 | Quantity: 17
+[ORDER] BUY | Company: Roche Holding AG (ROG.SW) | Price: 162.878 | Quantity: 20
+[ORDER] BUY | Company: SAP SE (SAP.DE) | Price: 117.708 | Quantity: 42
+[ORDER] SELL | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 46.7773 | Quantity: 26
+[ORDER] SELL | Company: SAP SE (SAP.DE) | Price: 825.029 | Quantity: 20
+[ORDER] BUY | Company: Amazon.com Inc. (AMZN) | Price: 477.606 | Quantity: 4
+[MATCH] Company: Amazon.com Inc. (AMZN) | Matching Buy @477.606 with Sell @363.053 | Quantity: 4
+[TRADE] Company: Amazon.com Inc. (AMZN) | Buy @477.606 | Sell @363.053 | Quantity: 4
+[ORDER] SELL | Company: Apple Inc. (AAPL) | Price: 455.62 | Quantity: 3
+[MATCH] Company: Apple Inc. (AAPL) | Matching Buy @650.477 with Sell @455.62 | Quantity: 3
+[TRADE] Company: Apple Inc. (AAPL) | Buy @650.477 | Sell @455.62 | Quantity: 3
+[ORDER] BUY | Company: Shopify Inc. (SHOP.TO) | Price: 608.548 | Quantity: 4
+[ORDER] SELL | Company: Toyota Motor Corp. (7203.T) | Price: 502.108 | Quantity: 31
+[MATCH] Company: Toyota Motor Corp. (7203.T) | Matching Buy @837.68 with Sell @502.108 | Quantity: 27
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 312.608 | Quantity: 12
+[TRADE] Company: Toyota Motor Corp. (7203.T) | Buy @837.68 | Sell @502.108 | Quantity: 27
+[ORDER] SELL | Company: Walmart Inc. (WMT) | Price: 431.005 | Quantity: 43
+[MATCH] Company: Walmart Inc. (WMT) | Matching Buy @649.512 with Sell @431.005 | Quantity: 39
+[TRADE] Company: Walmart Inc. (WMT) | Buy @649.512 | Sell @431.005 | Quantity: 39
+[ORDER] SELL | Company: Sony Corporation (6758.T) | Price: 747.793 | Quantity: 46
+[ORDER] BUY | Company: BHP Group Ltd. (BHP.AX) | Price: 162.709 | Quantity: 22
+[ORDER] BUY | Company: Alphabet Inc. (GOOGL) | Price: 278.118 | Quantity: 48
+[ORDER] BUY | Company: Shell plc (SHEL.L) | Price: 841.559 | Quantity: 37
+[MATCH] Company: Shell plc (SHEL.L) | Matching Buy @841.559 with Sell @244.056 | Quantity: 37
+[TRADE] Company: Shell plc (SHEL.L) | Buy @841.559 | Sell @244.056 | Quantity: 37
+[ORDER] SELL | Company: Meta Platforms Inc. (META) | Price: 234.54 | Quantity: 44
+[ORDER] SELL | Company: JPMorgan Chase & Co. (JPM) | Price: 504.859 | Quantity: 23
+[ORDER] SELL | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 581.771 | Quantity: 9
+[ORDER] SELL | Company: Tesla Inc. (TSLA) | Price: 19.2347 | Quantity: 46
+[MATCH] Company: Tesla Inc. (TSLA) | Matching Buy @261.825 with Sell @19.2347 | Quantity: 28
+[TRADE] Company: Tesla Inc. (TSLA) | Buy @261.825 | Sell @19.2347 | Quantity: 28
+[ORDER] BUY | Company: TotalEnergies SE (TTE.PA) | Price: 308.483 | Quantity: 2
+[ORDER] SELL | Company: UnitedHealth Group Inc. (UNH) | Price: 109.427 | Quantity: 48
+[ORDER] BUY | Company: UnitedHealth Group Inc. (UNH) | Price: 183.057 | Quantity: 17
+[MATCH] Company: UnitedHealth Group Inc. (UNH) | Matching Buy @183.057 with Sell @69.525 | Quantity: 17
+[TRADE] Company: UnitedHealth Group Inc. (UNH) | Buy @183.057 | Sell @69.525 | Quantity: 17
+[ORDER] SELL | Company: Royal Bank of Canada (RY.TO) | Price: 825.857 | Quantity: 43
+[ORDER] SELL | Company: Royal Bank of Canada (RY.TO) | Price: 825.857 | Quantity: 43
+[ORDER] SELL | Company: Toronto-Dominion Bank (TD.TO) | Price: 622.016 | Quantity: 32
+[ORDER] BUY | Company: Sony Corporation (6758.T) | Price: 25.5934 | Quantity: 46
+[MATCH] Company: Royal Bank of Canada (RY.TO) | Matching Buy @914.013 with Sell @825.857 | Quantity: 43
+[TRADE] Company: Royal Bank of Canada (RY.TO) | Buy @914.013 | Sell @825.857 | Quantity: 43
+[ORDER] BUY | Company: Alphabet Inc. (GOOGL) | Price: 505.639 | Quantity: 10
+[ORDER] SELL | Company: Toronto-Dominion Bank (TD.TO) | Price: 546.013 | Quantity: 10
+[ORDER] BUY | Company: SAP SE (SAP.DE) | Price: 923.557 | Quantity: 46
+[ORDER] BUY | Company: Toyota Motor Corp. (7203.T) | Price: 556.154 | Quantity: 13
+[MATCH] Company: Toyota Motor Corp. (7203.T) | Matching Buy @556.154 with Sell @50.0675 | Quantity: 4
+[TRADE] Company: Toyota Motor Corp. (7203.T) | Buy @556.154 | Sell @50.0675 | Quantity: 4
+[ORDER] SELL | Company: Shopify Inc. (SHOP.TO) | Price: 728.683 | Quantity: 30
+[ORDER] BUY | Company: Meta Platforms Inc. (META) | Price: 271.477 | Quantity: 4
+[ORDER] BUY | Company: Meta Platforms Inc. (META) | Price: 271.477 | Quantity: 4
+[ORDER] BUY | Company: Nestlé S.A. (NESN.SW) | Price: 156.42 | Quantity: 43
+[MATCH] Company: Meta Platforms Inc. (META) | Matching Buy @271.477 with Sell @234.54 | Quantity: 4
+[TRADE] Company: Meta Platforms Inc. (META) | Buy @271.477 | Sell @234.54 | Quantity: 4
+[ORDER] SELL | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 661.758 | Quantity: 45
+[MATCH] Company: ICICI Bank Ltd. (ICICIBANK.NS) | Matching Buy @978.487 with Sell @661.758 | Quantity: 35
+[TRADE] Company: ICICI Bank Ltd. (ICICIBANK.NS) | Buy @978.487 | Sell @661.758 | Quantity: 35
+[ORDER] SELL | Company: Nestlé S.A. (NESN.SW) | Price: 801.941 | Quantity: 29
+[ORDER] SELL | Company: Shopify Inc. (SHOP.TO) | Price: 308.877 | Quantity: 22
+[ORDER] BUY | Company: Exxon Mobil Corp. (XOM) | Price: 508.374 | Quantity: 30
+[ORDER] BUY | Company: Siemens AG (SIE.DE) | Price: 719.802 | Quantity: 23
+[ORDER] BUY | Company: Infosys Ltd. (INFY.NS) | Price: 262.065 | Quantity: 37
+[ORDER] SELL | Company: BP plc (BP.L) | Price: 842.995 | Quantity: 35
+[ORDER] BUY | Company: BP plc (BP.L) | Price: 755.268 | Quantity: 12
+[MATCH] Company: BP plc (BP.L) | Matching Buy @755.268 with Sell @105.66 | Quantity: 12
+[ORDER] SELL | Company: SAP SE (SAP.DE) | Price: 700.716 | Quantity: 27
+[TRADE] Company: BP plc (BP.L) | Buy @755.268 | Sell @105.66 | Quantity: 12
+[MATCH] Company: SAP SE (SAP.DE) | Matching Buy @980.527 with Sell @700.716 | Quantity: 13
+[TRADE] Company: SAP SE (SAP.DE) | Buy @980.527 | Sell @700.716 | Quantity: 13
+[ORDER] SELL | Company: Siemens AG (SIE.DE) | Price: 672.238 | Quantity: 42
+[ORDER] BUY | Company: Tencent Holdings Ltd. (0700.HK) | Price: 196.12 | Quantity: 15
+[ORDER] BUY | Company: Tata Consultancy Services (TCS.NS) | Price: 576.749 | Quantity: 19
+[ORDER] BUY | Company: UnitedHealth Group Inc. (UNH) | Price: 39.1278 | Quantity: 42
+[ORDER] BUY | Company: Infosys Ltd. (INFY.NS) | Price: 729.518 | Quantity: 15
+[MATCH] Company: Infosys Ltd. (INFY.NS) | Matching Buy @729.518 with Sell @184.992 | Quantity: 15
+[TRADE] Company: Infosys Ltd. (INFY.NS) | Buy @729.518 | Sell @184.992 | Quantity: 15
+[ORDER] SELL | Company: JPMorgan Chase & Co. (JPM) | Price: 829.475 | Quantity: 6
+[ORDER] SELL | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 696.9 | Quantity: 34
+[ORDER] SELL | Company: Unilever plc (ULVR.L) | Price: 866.596 | Quantity: 8
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 126.265 | Quantity: 47
+[ORDER] SELL | Company: Shopify Inc. (SHOP.TO) | Price: 523.352 | Quantity: 20
+[ORDER] BUY | Company: Apple Inc. (AAPL) | Price: 700.919 | Quantity: 41
+[ORDER] SELL | Company: BHP Group Ltd. (BHP.AX) | Price: 211.077 | Quantity: 1
+[ORDER] BUY | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 701.327 | Quantity: 42
+[ORDER] SELL | Company: Microsoft Corp. (MSFT) | Price: 73.8086 | Quantity: 31
+[ORDER] SELL | Company: Nestlé S.A. (NESN.SW) | Price: 452.146 | Quantity: 21
+[ORDER] BUY | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 563.404 | Quantity: 13
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 708.234 | Quantity: 41
+[ORDER] SELL | Company: UnitedHealth Group Inc. (UNH) | Price: 803.28 | Quantity: [ORDER] BUY | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 35821.702 | Quantity: 49
+[ORDER] SELL | Company: UnitedHealth Group Inc. (UNH) | Price: 803.28 | Quantity: [ORDER] BUY | Company: ICICI Bank Ltd. (ICICIBANK.NS) | Price: 35821.702 | Quantity: 49
+[ORDER] SELL | Company: Bank of Montreal (BMO.TO) | Price: 61.9436 | Quantity: 16
+[MATCH] Company: Bank of Montreal (BMO.TO) | Matching Buy @747.905 with Sell @61.9436 | Quantity: 16
+[TRADE] Company: Bank of Montreal (BMO.TO) | Buy @747.905 | Sell @61.9436 | Quantity: 16
+[ORDER] SELL | Company: CSL Ltd. (CSL.AX) | Price: 372.838 | Quantity: 2
+[ORDER] SELL | Company: Apple Inc. (AAPL) | Price: 508.967 | Quantity: 42
+[ORDER] SELL | Company: HSBC Holdings plc (HSBA.L) | Price: 837.252 | Quantity: 18
+[ORDER] SELL | Company: BHP Group Ltd. (BHP.AX) | Price: 820.886 | Quantity: 15
+[ORDER] SELL | Company: BHP Group Ltd. (BHP.AX) | Price: 820.886 | Quantity: 15
+[ORDER] BUY | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 323.176 | Quantity: 35
+[ORDER] SELL | Company: Bank of Montreal (BMO.TO) | Price: 549.01 | Quantity: 17
+[ORDER] SELL | Company: BHP Group Ltd. (BHP.AX) | Price: 820.886 | Quantity: 15
+[ORDER] BUY | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 323.176 | Quantity: 35
+[ORDER] BUY | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 254.67 | Quantity: 45
+[ORDER] SELL | Company: Tesla Inc. (TSLA) | Price: [ORDER] SELL | Company: Sony Corporation (6758.T) | Price: 73.323 | Quantity: 45
+[ORDER] SELL | Company: Tesla Inc. (TSLA) | Price: [ORDER] SELL | Company: Sony Corporation (6758.T) | Price: 73.323 | Quantity: 45
+857.681 | Quantity: 50
+[ORDER] SELL | Company: Samsung Electronics (005930.KQ) | Price: 915.828 | Quantity: 50
+[ORDER] SELL | Company: Walmart Inc. (WMT) | Price: 359.031 | Quantity: 2
+[ORDER] SELL | Company: CSL Ltd. (CSL.AX) | Price: 312.485 | Quantity: 44
+[ORDER] BUY | Company: Samsung Electronics (005930.KQ) | Price: 728.005 | Quantity: 2
+[MATCH] Company: Samsung Electronics (005930.KQ) | Matching Buy @728.005 with Sell @596.391 | Quantity: 2
+[TRADE] Company: Samsung Electronics (005930.KQ) | Buy @728.005 | Sell @596.391 | Quantity: 2
+[ORDER] BUY | Company: Johnson & Johnson (JNJ) | Price: 56.5756 | Quantity: 11
+[ORDER] SELL | Company: Bank of Montreal (BMO.TO) | Price: 965.859 | Quantity: 12
+[ORDER] BUY | Company: Toronto-Dominion Bank (TD.TO) | Price: 937.414 | Quantity: 34
+[ORDER] SELL | Company: Tesla Inc. (TSLA) | Price: 320.596 | Quantity: 17
+[ORDER] SELL | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 300.522 | Quantity: 16
+[ORDER] SELL | Company: TotalEnergies SE (TTE.PA) | Price: 481.094 | Quantity: 47
+[MATCH] Company: TotalEnergies SE (TTE.PA) | Matching Buy @823.4 with Sell @481.094 | Quantity: 18
+[TRADE] Company: TotalEnergies SE (TTE.PA) | Buy @823.4 | Sell @481.094 | Quantity: 18
+[ORDER] SELL | Company: Samsung Electronics (005930.KQ) | Price: 870.857 | Quantity: 13
+[ORDER] BUY | Company: NVIDIA Corp. (NVDA) | Price: 543.4 | Quantity: 49
+[ORDER] BUY | Company: NVIDIA Corp. (NVDA) | Price: 543.4 | Quantity: 49
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 801.137 | Quantity: 22
+[MATCH] Company: NVIDIA Corp. (NVDA) | Matching Buy @543.4 with Sell @407.77 | Quantity: 34
+[TRADE] Company: NVIDIA Corp. (NVDA) | Buy @543.4 | Sell @407.77 | Quantity: 34
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 194.479 | Quantity: 39
+[ORDER] BUY | Company: Sony Corporation (6758.T) | Price: 291.326 | Quantity: 46
+[ORDER] BUY | Company: Meta Platforms Inc. (META) | Price: 168.962 | Quantity: 5
+[ORDER] SELL | Company: BHP Group Ltd. (BHP.AX) | Price: 567.447 | Quantity: 25
+[ORDER] BUY | Company: Air Canada (AC.TO) | Price: 980.827 | Quantity: 15
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 259.224 | Quantity: 36
+[ORDER] BUY | Company: Toyota Motor Corp. (7203.T) | Price: 30.4729 | Quantity: 34
+[ORDER] BUY | Company: Sony Group Corp. (6758.T) | Price: 117.633 | Quantity: 19
+[ORDER] BUY | Company: Visa Inc. (V) | Price: 303.073 | Quantity: 29
+[ORDER] BUY | Company: Unilever plc (ULVR.L) | Price: 427.178 | Quantity: 7
+[ORDER] BUY | Company: Sony Group Corp. (6758.T) | Price: 378.627 | Quantity: 15
+[MATCH] Company: Sony Group Corp. (6758.T) | Matching Buy @378.627 with Sell @237.177 | Quantity: 14
+[TRADE] Company: Sony Group Corp. (6758.T) | Buy @378.627 | Sell @237.177 | Quantity: 14
+[ORDER] BUY | Company: Canadian National Railway Co. (CNR.TO) | Price: 410.653 | Quantity: 21
+[ORDER] SELL | Company: Toronto-Dominion Bank (TD.TO) | Price: 609.702 | Quantity: 17
+[ORDER] SELL | Company: Exxon Mobil Corp. (XOM) | Price: 440.655 | Quantity: 33
+[ORDER] BUY | Company: SAP SE (SAP.DE) | Price: 832.778 | Quantity: 30
+[ORDER] BUY | Company: Tesla Inc. (TSLA) | Price: 976.055 | Quantity: 33
+[ORDER] BUY | Company: Sony Group Corp. (6758.T) | Price: 898.817 | Quantity: 49
+[ORDER] BUY | Company: Visa Inc. (V) | Price: 149.947 | Quantity: 17
+[ORDER] BUY | Company: Meta Platforms Inc. (META) | Price: 156.89 | Quantity: 32
+[ORDER] SELL | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 912.831 | Quantity: 44
+[ORDER] SELL | Company: Johnson & Johnson (JNJ) | Price: 954.79 | Quantity: 31
+[ORDER] SELL | Company: Microsoft Corp. (MSFT) | Price: 562.951 | Quantity: 2
+[ORDER] SELL | Company: Johnson & Johnson (JNJ) | Price: 280.492 | Quantity: 44
+[ORDER] SELL | Company: Toyota Motor Corp. (7203.T) | Price: 451.597 | Quantity: 28
+[ORDER] SELL | Company: Nestlé S.A. (NESN.SW) | Price: 156.699 | Quantity: 45
+[ORDER] BUY | Company: TotalEnergies SE (TTE.PA) | Price: 966.523 | Quantity: 47
+[ORDER] BUY | Company: Apple Inc. (AAPL) | Price: 79.8968 | Quantity: 4
+[ORDER] BUY | Company: Procter & Gamble Co. (PG) | Price: 952.175 | Quantity: 3
+[ORDER] SELL | Company: Bank of Montreal (BMO.TO) | Price: 244.88 | Quantity: 20
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 820.9 | Quantity: 22
+[ORDER] SELL | Company: Amazon.com Inc. (AMZN) | Price: 355.163 | Quantity: 8
+[MATCH] Company: Amazon.com Inc. (AMZN) | Matching Buy @677.689 with Sell @355.163 | Quantity: 8
+[TRADE] Company: Amazon.com Inc. (AMZN) | Buy @677.689 | Sell @355.163 | Quantity: 8
+[ORDER] SELL | Company: Visa Inc. (V) | Price: 749.067 | Quantity: 32
+[ORDER] SELL | Company: Roche Holding AG (ROG.SW) | Price: 372.924 | Quantity: 36
+[ORDER] SELL | Company: Procter & Gamble Co. (PG) | Price: 268.258 | Quantity: 27
+[ORDER] SELL | Company: UnitedHealth Group Inc. (UNH) | Price: 98.4276 | Quantity: 22
+[ORDER] SELL | Company: BP plc (BP.L) | Price: 970.609 | Quantity: 4
+[MATCH] Company: UnitedHealth Group Inc. (UNH) | Matching Buy @259.5 with Sell @98.4276 | Quantity: 13
+[TRADE] Company: UnitedHealth Group Inc. (UNH) | Buy @259.5 | Sell @98.4276 | Quantity: 13
+[TRADE] Company: UnitedHealth Group Inc. (UNH) | Buy @259.5 | Sell @98.4276 | Quantity: 13
+uantity: 13
+[ORDER] SELL | Company: Siemens AG (SIE.DE) | Price: 477.713 | Quantity: 28
+[ORDER] SELL | Company: Procter & Gamble Co. (PG) | Price: 969.954 | Quantity: 1
+[ORDER] BUY | Company: Samsung Electronics (005930.KQ) | Price: 800.581 | Quantity: 14
+[MATCH] Company: Samsung Electronics (005930.KQ) | Matching Buy @800.581 with Sell @42.9108 | Quantity: 14
+[TRADE] Company: Samsung Electronics (005930.KQ) | Buy @800.581 | Sell @42.9108 | Quantity: 14
+[ORDER] BUY | Company: TotalEnergies SE (TTE.PA) | Price: 999.453 | Quantity: 15
+[ORDER] BUY | Company: JPMorgan Chase & Co. (JPM) | Price: 42.8776 | Quantity: 4
+[ORDER] SELL | Company: Roche Holding AG (ROG.SW) | Price: 472.955 | Quantity: 37
+[ORDER] BUY | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 880.709 | Quantity: 2
+[ORDER] BUY | Company: SAP SE (SAP.DE) | Price: 407.678 | Quantity: 41
+[ORDER] BUY | Company: Samsung Electronics (005930.KQ) | Price: 853.084 | Quantity: 13
+[ORDER] SELL | Company: HSBC Holdings plc (HSBA.L) | Price: 513.558 | Quantity: 9
+[MATCH] Company: HSBC Holdings plc (HSBA.L) | Matching Buy @769.409 with Sell @513.558 | Quantity: 1
+[TRADE] Company: HSBC Holdings plc (HSBA.L) | Buy @769.409 | Sell @513.558 | Quantity: 1
+[ORDER] BUY | Company: BP plc (BP.L) | Price: 257.263 | Quantity: 25
+[ORDER] SELL | Company: Walmart Inc. (WMT) | Price: 34.4231 | Quantity: 33
+[MATCH] Company: Walmart Inc. (WMT) | Matching Buy @889.531 with Sell @34.4231 | Quantity: 8
+[TRADE] Company: Walmart Inc. (WMT) | Buy @889.531 | Sell @34.4231 | Quantity: 8
+[ORDER] BUY | Company: Roche Holding AG (ROG.SW) | Price: 123.332 | Quantity: 32
+[ORDER] SELL | Company: Walmart Inc. (WMT) | Price: 872.555 | Quantity: 9
+[ORDER] SELL | Company: Walmart Inc. (WMT) | Price: 872.555 | Quantity: 9
+[ORDER] SELL | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 767.168 | Quantity: 3
+[MATCH] Company: Reliance Industries Ltd. (RELIANCE.NS) | Matching Buy @890.212 with Sell @767.168 | Quantity: 3
+[TRADE] Company: Reliance Industries Ltd. (RELIANCE.NS) | Buy @890.212 | Sell @767.168 | Quantity: 3
+[ORDER] SELL | Company: Shopify Inc. (SHOP.TO) | Price: 174.485 | Quantity: 8
+[ORDER] BUY | Company: JPMorgan Chase & Co. (JPM) | Price: 924.258 | Quantity: 7
+[ORDER] SELL | Company: Meta Platforms Inc. (META) | Price: 42.3782 | Quantity: 40
+[ORDER] SELL | Company: SoftBank Group Corp. (9984.T) | Price: 814.926 | Quantity: 41
+[ORDER] BUY | Company: Bank of Montreal (BMO.TO) | Price: 73.0487 | Quantity: 32
+[ORDER] SELL | Company: Visa Inc. (V) | Price: 460.868 | Quantity: 37
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 206.063 | Quantity: 18
+[MATCH] Company: Visa Inc. (V) | Matching Buy @865.221 with Sell @460.868 | Quantity: 37
+[MATCH] Company: Tencent Holdings Ltd. (0700.HK) | Matching Buy @883.1 with Sell @206.063 | Quantity: 18
+[TRADE] Company: Visa Inc. (V) | Buy @865.221 | Sell @460.868 | Quantity: 37
+[TRADE] Company: Tencent Holdings Ltd. (0700.HK) | Buy @883.1 | Sell @206.063 | Quantity: 18
+[ORDER] SELL | Company: JPMorgan Chase & Co. (JPM) | Price: 53.8227 | Quantity: 18
+[ORDER] BUY | Company: Bank of Montreal (BMO.TO) | Price: 937.081 | Quantity: 28
+[MATCH] Company: Bank of Montreal (BMO.TO) | Matching Buy @937.081 with Sell @549.01 | Quantity: 17
+[TRADE] Company: Bank of Montreal (BMO.TO) | Buy @937.081 | Sell @549.01 | Quantity: 17
+[ORDER] SELL | Company: HSBC Holdings plc (HSBA.L) | Price: 27.0791 | Quantity: 3
+[ORDER] SELL | Company: Exxon Mobil Corp. (XOM) | Price: 775.151 | Quantity: 14
+[ORDER] SELL | Company: Unilever plc (ULVR.L) | Price: 19.0868 | Quantity: 26
+[MATCH] Company: Unilever plc (ULVR.L) | Matching Buy @427.178 with Sell @19.0868 | Quantity: 7
+[TRADE] Company: Unilever plc (ULVR.L) | Buy @427.178 | Sell @19.0868 | Quantity: 7
+[ORDER] BUY | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 805.184 | Quantity: 28
+[ORDER] SELL | Company: Infosys Ltd. (INFY.NS) | Price: 111.356 | Quantity: 34
+[ORDER] SELL | Company: Siemens AG (SIE.DE) | Price: 306.658 | Quantity: 46
+[ORDER] BUY | Company: Toyota Motor Corp. (7203.T) | Price: 87.0707 | Quantity: 13
+[ORDER] SELL | Company: Shopify Inc. (SHOP.TO) | Price: 664.062 | Quantity: 47
+[ORDER] SELL | Company: Microsoft Corp. (MSFT) | Price: 862.078 | Quantity: 41
+[ORDER] SELL | Company: Infosys Ltd. (INFY.NS) | Price: 523.08 | Quantity: 21
+[ORDER] BUY | Company: HSBC Holdings plc (HSBA.L) | Price: 718.716 | Quantity: 42
+[ORDER] SELL | Company: Amazon.com Inc. (AMZN) | Price: 583.364 | Quantity: 10
+[ORDER] SELL | Company: Johnson & Johnson (JNJ) | Price: 198.633 | Quantity: 42
+[ORDER] BUY | Company: Toronto-Dominion Bank (TD.TO) | Price: 679.604 | Quantity: 40
+[ORDER] SELL | Company: Sony Corporation (6758.T) | Price: 86.8972 | Quantity: 19
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 445.563 | Quantity: 9
+[MATCH] Company: Tencent Holdings Ltd. (0700.HK) | Matching Buy @807.805 with Sell @445.563 | Quantity: 9
+[TRADE] Company: Tencent Holdings Ltd. (0700.HK) | Buy @807.805 | Sell @445.563 | Quantity: 9
+[ORDER] BUY | Company: SoftBank Group Corp. (9984.T) | Price: 965.044 | Quantity: 30
+[MATCH] Company: SoftBank Group Corp. (9984.T) | Matching Buy @965.044 with Sell @37.6019 | Quantity: 13
+[TRADE] Company: SoftBank Group Corp. (9984.T) | Buy @965.044 | Sell @37.6019 | Quantity: 13
+[ORDER] SELL | Company: Samsung Electronics (005930.KQ) | Price: 259.713 | Quantity: 37
+[ORDER] SELL | Company: Sony Group Corp. (6758.T) | Price: 376.81 | Quantity: 14
+[ORDER] SELL | Company: Tencent Holdings Ltd. (0700.HK) | Price: 493.269 | Quantity: 19
+[MATCH] Company: Tencent Holdings Ltd. (0700.HK) | Matching Buy @922.99 with Sell @493.269 | Quantity: 19
+[TRADE] Company: Tencent Holdings Ltd. (0700.HK) | Buy @922.99 | Sell @493.269 | Quantity: 19
+[ORDER] BUY | Company: Walmart Inc. (WMT) | Price: 234.539 | Quantity: 40
+[ORDER] BUY | Company: Nestlé S.A. (NESN.SW) | Price: 670.384 | Quantity: 8
+[MATCH] Company: Nestlé S.A. (NESN.SW) | Matching Buy @670.384 with Sell @418.706 | Quantity: 8
+[TRADE] Company: Nestlé S.A. (NESN.SW) | Buy @670.384 | Sell @418.706 | Quantity: 8
+[ORDER] BUY | Company: Bank of Montreal (BMO.TO) | Price: 913.708 | Quantity: 50
+[ORDER] BUY | Company: Canadian National Railway Co. (CNR.TO) | Price: 720.271 | Quantity: 42
+[ORDER] BUY | Company: Canadian National Railway Co. (CNR.TO) | Price: 414.192 | Quantity: 7
+[ORDER] BUY | Company: Nestlé S.A. (NESN.SW) | Price: 696.684 | Quantity: 35
+[ORDER] BUY | Company: TotalEnergies SE (TTE.PA) | Price: 24.2953 | Quantity: 39
+[MATCH] Company: Nestlé S.A. (NESN.SW) | Matching Buy @696.684 with Sell @535.781 | Quantity: 35
+[TRADE] Company: Nestlé S.A. (NESN.SW) | Buy @696.684 | Sell @535.781 | Quantity: 35
+[ORDER] SELL | Company: Commonwealth Bank of Australia (CBA.AX) | Price: 408.053 | Quantity: 36
+[ORDER] SELL | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 367.319 | Quantity: 27
+[ORDER] BUY | Company: Infosys Ltd. (INFY.NS) | Price: 524.578 | Quantity: 1
+[ORDER] BUY | Company: Alphabet Inc. (GOOGL) | Price: 257.381 | Quantity: 9
+[ORDER] SELL | Company: Toyota Motor Corp. (7203.T) | Price: 449.929 | Quantity: 29
+[ORDER] BUY | Company: UnitedHealth Group Inc. (UNH) | Price: 423.014 | Quantity: 15
+[ORDER] BUY | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 972.566 | Quantity: 29
+[MATCH] Company: Reliance Industries Ltd. (RELIANCE.NS) | Matching Buy @972.566 with Sell @696.9 | Quantity: 29
+[TRADE] Company: Reliance Industries Ltd. (RELIANCE.NS) | Buy @972.566 | Sell @696.9 | Quantity: 29
+[ORDER] SELL | Company: Nestlé S.A. (NESN.SW) | Price: 948.717 | Quantity: 1
+[ORDER] SELL | Company: Alphabet Inc. (GOOGL) | Price: 796.226 | Quantity: 12
+[ORDER] BUY | Company: Sony Corporation (6758.T) | Price: 990.197 | Quantity: 17
+[ORDER] BUY | Company: Tata Consultancy Services (TCS.NS) | Price: 966.018 | Quantity: 13
+[MATCH] Company: Tata Consultancy Services (TCS.NS) | Matching Buy @966.018 with Sell @820.9 | Quantity: 13
+[TRADE] Company: Tata Consultancy Services (TCS.NS) | Buy @966.018 | Sell @820.9 | Quantity: 13
+[ORDER] SELL | Company: BHP Group Ltd. (BHP.AX) | Price: 639.718 | Quantity: 24
+[ORDER] SELL | Company: Johnson & Johnson (JNJ) | Price: 924.276 | Quantity: 11
+[ORDER] BUY | Company: UnitedHealth Group Inc. (UNH) | Price: 877.608 | Quantity: 18
+[ORDER] BUY | Company: Tesla Inc. (TSLA) | Price: 273.381 | Quantity: 1
+[ORDER] SELL | Company: Nestlé S.A. (NESN.SW) | Price: 825.585 | Quantity: 42
+[ORDER] BUY | Company: Air Canada (AC.TO) | Price: 595.978 | Quantity: 24
+[MATCH] Company: Air Canada (AC.TO) | Matching Buy @595.978 with Sell @299.182 | Quantity: 10
+[TRADE] Company: Air Canada (AC.TO) | Buy @595.978 | Sell @299.182 | Quantity: 10
+[ORDER] BUY | Company: HSBC Holdings plc (HSBA.L) | Price: 90.7959 | Quantity: 43
+[MATCH] Company: HSBC Holdings plc (HSBA.L) | Matching Buy @90.7959 with Sell @27.0791 | Quantity: 3
+[TRADE] Company: HSBC Holdings plc (HSBA.L) | Buy @90.7959 | Sell @27.0791 | Quantity: 3
+[ORDER] BUY | Company: Sony Group Corp. (6758.T) | Price: 481.309 | Quantity: 29
+[ORDER] SELL | Company: Unilever plc (ULVR.L) | Price: 993.928 | Quantity: 1
+[ORDER] SELL | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 792.886 | Quantity: 38
+[ORDER] SELL | Company: Unilever plc (ULVR.L) | Price: 661.78 | Quantity: 39
+[ORDER] SELL | Company: LVMH Moët Hennessy Louis Vuitton (MC.PA) | Price: 717.676 | Quantity: 42
+[ORDER] BUY | Company: HSBC Holdings plc (HSBA.L) | Price: 273.854 | Quantity: 25
+[MATCH] Company: HSBC Holdings plc (HSBA.L) | Matching Buy @273.854 with Sell @48.0481 | Quantity: 16
+[TRADE] Company: HSBC Holdings plc (HSBA.L) | Buy @273.854 | Sell @48.0481 | Quantity: 16
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 929.492 | Quantity: 37
+[ORDER] SELL | Company: TotalEnergies SE (TTE.PA) | Price: 792.671 | Quantity: 23
+[MATCH] Company: TotalEnergies SE (TTE.PA) | Matching Buy @966.523 with Sell @792.671 | Quantity: 23
+[TRADE] Company: TotalEnergies SE (TTE.PA) | Buy @966.523 | Sell @792.671 | Quantity: 23
+[ORDER] SELL | Company: BP plc (BP.L) | Price: 466.127 | Quantity: 17
+[ORDER] BUY | Company: Reliance Industries Ltd. (RELIANCE.NS) | Price: 556.526 | Quantity: 35
+[ORDER] BUY | Company: Exxon Mobil Corp. (XOM) | Price: 317.669 | Quantity: 4
+[ORDER] SELL | Company: Berkshire Hathaway Inc. (BRK.A) | Price: 114.651 | Quantity: 24
+[MATCH] Company: Berkshire Hathaway Inc. (BRK.A) | Matching Buy @456.548 with Sell @114.651 | Quantity: 2
+[TRADE] Company: Berkshire Hathaway Inc. (BRK.A) | Buy @456.548 | Sell @114.651 | Quantity: 2
+[ORDER] BUY | Company: Shell plc (SHEL.L) | Price: 238.351 | Quantity: 14
+[ORDER] SELL | Company: Tata Consultancy Services (TCS.NS) | Price: 353.604 | Quantity: 48
+[MATCH] Company: Tata Consultancy Services (TCS.NS) | Matching Buy @576.749 with Sell @353.604 | Quantity: 19
+[TRADE] Company: Tata Consultancy Services (TCS.NS) | Buy @576.749 | Sell @353.604 | Quantity: 19
+[ORDER] SELL | Company: Alibaba Group Holding Ltd. (9988.HK) | Price: 444.679 | Quantity: 45
